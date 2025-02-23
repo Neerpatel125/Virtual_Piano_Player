@@ -1,0 +1,92 @@
+[6rtu] [rtu] [etu] [etu]
+[5rtu] [rtu] [etu] [etu]
+[4rtu] [rtu] [etu] [etu]
+[3eru] [eru] [Wru] [Wru] k l x z
+[6rtu] [rtu] [etu] [etu]
+[5rtu] [rtu] [etu] [etu] k l x z
+[4rtu] [rtu] [etu] [etu]
+[3eru] [eru] [Wru] [Wru] k l v x
+[6rtu] [rtu] Z x [etu] [etu] Z x
+[5rtu] [rtu] Z x [etu] [etu] c
+[4rtux] [rtu] z l [etuk] j [etu] h
+[3eruG] g [eru] f [Wru] [Wru] u p a h
+[6rtuf] [rtu] D [etuf] [etu] D
+[5rtuf] l [rtu] k [etuH] j [etu] a
+[4rtups] [rtu] [Oa] [etups] [etu] [ad]
+[3erups] [eryui] [Wru] f [Wru] d
+[6rtus] a [rtus] d [etus] [etu] a
+[5rtus] [rtu] a [etus] l k [etuH] j a
+[4rtus] a p [rtu] [etu] [etu]
+[3eru] a [WO] [@Qr]
+[29qt] e [29qr] t
+[qrWT] y [W40ryu] i
+[30rtI] o [0eyp] [qEY] o [qEY]
+[6ioTP] [ET60u] i 5 o
+[rtu$QO] O p [rtua] p [etu] O p a
+[O4qtus] [yO] [ti] [Wy]
+[7u] e o
+[eyi] 3 [37eru] W
+[6rtu]
+[rtu] [etu] [etu]
+[5rtu] [rtu] [etu] [etu]
+[4rtu] [rtu] [etu] [etu]
+[3eru] [eru] [Wru] [Wru] k l x z
+[6rtu] [rtu] [etu] [etu]
+[5rtu] [rtu] [etu] [etu] k l x z
+[4rtu] [rtu] [etu] [etu]
+[3eru] [eru] [Wru] [Wru] k l v x
+[6rtu] [rtu] Z x [etu] [etu] Z
+[5rtux] [rtu] Z [etux] [etu] c
+[4rtux] [rtu] z l [etul] j [etu] h
+[3eruG] g [eru] f [Wru] [Wru] u p a h
+[6rtuf] [rtu] D [etuf] [etu] D
+[5rtuf] l [rtu] k [etuH] j [etu] a
+[4rtus] [rtu] a [etus] [etu] d
+[3erus] [erui] [Wru] f [Wru] d
+[6rtus] a [rtus] d [etus] [etu] a
+[5rtus] [rtu] a [etus] l k [etuH] j a
+[4rtus] a p [rtu] [etu] [etu]
+[3eru] a [WO] [@Qr]
+[29qt] e [2qr] t
+[5qrWT] y [40wryu] i
+[30rtuI] o [10eyp] [qEY] o [qEY]
+[T60wip] P [ET59up] i o
+[rtu$O] O p [rtua] p [etu] O p a
+[O4qtus] [yiO] [ti] y
+[7u] e o
+[eyi] 3 [37eru] W
+a
+[6rtus] [rtu] [etu] [etu] a
+[5rtus] [rtu] [etu] [etu] a
+[4rtus] [rtu] [etu] [etu] d
+[3erua] [eru] [Wru] [Wru] a
+[6rtus] [rtu] [etu] [etu] a
+[5rtus] [rtu] [etu] [etu] a
+[4rtus] [rtu] [etus] d [etu] f
+[3eruj] [eru] [Wruk] [Wru] k l
+[6rtuz] l [rtu] d [etuf] [etu] j
+[5rtuj] [rtuh] d f [etu] [etu] j
+[4rtuj] [rtu] d [etud] f [etus] a s d
+[3erua] s a [eru] p a [Wru] [Wru] u
+[6rtu] [rtu] a a [etup] d [etud] s h
+[5rtud] f [rtu] f [etuf] k [etuj] H j k
+[4rtul] [rtu] z [etuk] l [etuj] k
+[3eruj] k l k [eru] j k [Wru] f [Wru] d
+[6rtuf] k l [rtu] d [etuf] k l [etu] d
+[5rtuf] l [rtuz] l [etuk] l [etuz] l z
+[4rtux] j [rtu] h [etuj] k [etul] z
+[3eruk] l k [eru] k l k [Wru] d f [Wru] f g
+[6rtuf] s d [rtu] p a s [etud] s d f [etu] d
+[5rtuf] s d [rtu] a s p [etua] p a s [etu] d f
+[4rtuh] d f j [rtu] d f k [etu] d f l [etu] k l z
+[3eruk] l k [eru] h d [Wru] h g [Wruf] d
+[6rtuf] k [rtul] z [etux] k l j [etu] d
+[5rtuf] k [rtul] z [etux] k l j [etu] k l
+[4rtu] l v [rtuv] c c [etuc] x [etuz] l
+[3eruz] [eru] l z [Wrux] k [Wruj] k
+[6rtul] k [rtul] z [etuk] l j [etu] k
+[5rtul] k l [rtu] z [etuk] l [etuj] x x
+[4rtux] d f [rtuf] u u [etu] y [etu] p
+[3erup] a [eruo] y o [Wru] [Wru]
+[469waf] [pd] [af] [pd] [af] [pd] [af] [pd]
+[af] [pd] [af] [pd]

@@ -1,0 +1,37 @@
+y w r i
+[469] e t e i u y u
+[680] e t e u e t u
+[80w] w t w u i u y
+[579] w r w y w r i
+[246] e t e i u y w
+[680t]||y
+[80wt]||t t t
+[579r]| r r|r r
+[246] t||ww
+[680t]||wwwy
+[80wt]ew||t t t
+[579r] r r| w w w
+[246] e||w
+[680t]||y
+[80wt]||t r
+[579r]| w w e ew0
+[246]||w
+[680t]||y y t
+[80w]||t t r
+[579]| w w e e|
+[246]||e e r
+[468e]| r e|e r
+[246t] r e t r e e e
+[680e]| r e|e r
+[680t] r e t r e e e
+[468e]| r e|e r
+[579t] r e t r e r|
+[579]||t|y|
+[680u]|y|t| uy
+[80wu]||o o y
+[579]|t t|o o y
+[246] u||u e t
+[246] e e t|e e t
+[468] e|t|e e t
+[468e]||t ew
+[579e] t|y||ww

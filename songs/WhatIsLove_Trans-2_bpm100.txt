@@ -1,0 +1,114 @@
+f h j
+[6us] a s a
+[sf] [ag] [sf] [ah]
+[8us] [af] s o
+s a [sf] [oh]
+[7ua] [pf] a o
+a p [af] [od]
+[7ya] p a o
+a [pf] [ah] [oj]
+[6us] a [6s] p 6
+[sf] [6ag] [pf] [5oh]
+[8us] [pf] [8s] o 8
+s [9a] [sf] [3oh]
+[3ra] [pf] [3a] o 3
+a [3p] [af] [3od]
+[5ra] p [5a] o 5
+a [3p] a [5o]
+[0e] [0e] e
+0 [5e] 0 6 [qw]
+[0t] [0t] t
+0 [5y] 0 6 [qu]
+[0u] [0u] u
+0 [5u] 0 6 [qu]
+[wo] [wo] o
+w [7u] w 7 [wo]
+[6tf] 6 o 6
+f [6d] [5f]
+[8tf] 8 o 8
+f [9d] [0f]
+[0rf] 0 o 0
+f [0g] f [0d]
+[wrd] [ws] d w
+0 s [ws]
+[6tf] 6 o 6
+f [6d] [5f]
+[8tf] 8 o 8
+f [9d] [0f]
+[0rf] 0 o 0
+f [0g] f [0d]
+[wrd] w w
+[0f] h [5j]
+[6sf] a [6s] a 6
+[sf] [6ag] [sf] [6ah]
+[8sf] [af] [8s] o 8
+s [9a] [sf] [0oh]
+[0a] [pf] [0a] o 0
+a [0p] [af] [0od]
+[wa] p [wa] o w
+a [0p] a [wo]
+[6tf] 6 6
+u [6o] p [5s]
+[8tdf] f [8d] s 8
+[9p] [0s]
+[0uad] f [0d] s 0
+[0p] 0
+[wrd] w s w
+0 w
+[6us] 6 6
+u [6o] p [6s]
+[8usd] f [8d] s 8
+[9p] [0s]
+[0tdf] f [0d] s 0
+[0p] 0
+[wyad] s
+[3u] 5 [6o]
+[ups] a [ps] p p
+[3s] [4pa] [3s] [5op]
+[us] [3a] s o s
+s [ad] [3s] [5of]
+[rsf] [3a] [sf] o f
+s [af] [3s] [2of]
+[rah] p [ah] o h
+a [3pf] [5a] [6o]
+[ups] a [ps] o p
+[3s] [4pa] [3s] [5o]
+[us] [3a] s p s
+s [ad] [3s] [5pf]
+[raf] [3p] [af] o f
+a [pf] [3a] [2of]
+[rah] p [ah] o h
+a [pf] a o
+[6us] a [6s] p 6
+s [6a] s [5p]
+[8os] a [8s] o 8
+s [2a] s [3o]
+[3a] p [3a] o 3
+a [3p] a [3o]
+[5pa] p [5a] o 5
+a [3pf] [ah] [5oj]
+[0es] a [0es] p e
+[0sf] [6eag] 0 [sf] 6 [qwph]
+[0ts] [af] [0ts] p t
+[0s] [5ya] 0 [sf] 6 [quph]
+[0ua] [pf] [0ua] o u
+[0a] [5up] 0 [af] 6 [quod]
+[woa] p [woa] o o
+[wa] [7upf] w [ah] 7 [5oj]
+[0es] a [0es] p e
+[0sf] [6eag] 0 [sf] 6 [qwph]
+[0ts] [af] [0ts] p t
+[0s] [5ya] 0 [sf] 6 [quph]
+[0ua] [pf] [0ua] o u
+[0a] [5up] 0 [af] 6 [quod]
+[woa] p [woa] o o
+[wa] [7upf] 0 [wah] [0oj]
+[6tu]
+f g f h
+[8tu] f
+f h
+[0ru] f
+f d
+[to] r [8e] 7
+[6w] [5f] h j
+[6us]

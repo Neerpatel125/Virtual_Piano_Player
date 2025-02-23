@@ -1,0 +1,6 @@
+webcolors
+more-itertools
+jsonpickle
+joblib
+chardet
+music21

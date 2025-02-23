@@ -1,0 +1,75 @@
+[etu] | [qeti] | [wtu] | [wty] - r
+[etu] | [qeti] | [wtuo] | [wryo] |
+[60epd] s s s [pd] s s s [48qpd] s s
+s [pd] s s s [8wtog] f f f [og] f
+f o [59wf] d d o g f d o
+[60ed] s s s d s s s [48qa] p p
+p a p p p [8wto] f f f [og] f
+f o [59wf] d d o g f d o
+[6d] [0s] e [0s] e [0s] [6d] [0s] e [0s] e [0s] [4d] [8s] q [8s]
+q [8s] [4d] [8s] q [8s] q s [8g] [wof] t [wf] t [wf] [8g] [wof]
+t [wf] t [wo] [5f] [9d] w [9d] w [9o] [5g] [9f] w [9d] w [9o]
+[6d] [0s] e [0s] e [0s] [6d] [0s] e [0s] e [0s] [4a] [8p] q [8p]
+q [8p] [4a] [8p] q [8p] q p [8o] [wf] t [wf] t [wf] [8og] [wf]
+t [wf] t [wo] [5f] [9d] w [9d] w [9o] [5g] [9f] w [9d] w [9o]
+[6s] 0 e t e 0 o d f d s 4 8 q e
+q 8 o d f d s [8f] w t [uo] t w o
+d f d s [5d] 9 w [ro] w 9 o d f d s
+[60ed] s o [0e] [0e] o d f d s [48qo] [8q]
+[8q] d f d s [8wtf] | [wt] | [wtf]
+d f d s [59wd] | [9w] | [9w] | o
+[4j] 8 q e t i p h g f g [8th] w t f
+t d [7r] w r s r s 4 8 q e t i |
+h g f g [8th] w t f t f [7rg] [wf] [rd] [rs]
+[4s] 8 q e | d s a s [5d] 9 w r
+y o | d f d s [6p] 0 [ed] [tf] [ed] [0s] [6p] [0s]
+[ed] [tf] [ed] [0s] [4p] 8 q e q 8 4 8 [qd] [ef] [qd] s
+[8f] [ws] [td] [uf] [td] [ws] [8f] [ws] [td] [uf] [td] [ws] [5d] 9 w r
+w 9 5 9 w [rs] [wd] [9s] [6h] [0s] [ed] [tf] [ed] [0s] [6h] [0s]
+[ed] [tf] [ed] [0s] [4h] [8s] [qd] [ef] [qd] [8s] [4h] [8s] [qd] [ef] [qd] s
+[8h] [ws] [td] [uf] [td] [ws] [8h] [ws] [td] [uf] [td] [ws] [5h] [9s] [wd] [rf]
+[wd] [9s] [5h] [9s] [wd] [rh] [ws] [9d] [6s] [0a] [ep] [ts] [ea] [0p] [6f] [0p]
+[ea] [ts] [ea] [0p] [4s] [8a] [qp] [es] [qa] [8p] [4g] [8p] [qa] [es] [qa] p
+[8f] [wd] [ts] [uf] [td] [ws] [8h] [ws] [td] [uf] [td] [ws] [5d] [9s] [wa] [rd]
+[ws] [9a] [5h] [9a] [ws] [rd] [ws] [9a] [6s] [0a] [ep] [ts] [ea] [0p] [6f] [0p]
+[ea] [ts] [ea] [0p] [4s] [8a] [qp] [es] [qa] [8p] [4g] [8p] [qa] [es] [qa] p
+[8f] [wd] [ts] [uf] [td] [ws] [8h] [ws] [td] [uf] [td] [ws] [5d] [9s] [wa] [rd]
+[ws] [9a] [5h] [9a] [ws] [rd] [ws] [9a] [6l] [0s] [ef] [tk] [es] [0f] [4j] [8s]
+[qg] [eh] s g [8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a] [wd] [rh] [wa] [9d]
+[6l] [0s] [ek] [ts] [ej] [0s] [4j] [8s] [qg] [eh] s g [8h] [ws] [tf] [uh]
+[ts] [wf] [5h] [9a] [wd] [rh] [wa] [9d] [6l] [0s] [ef] [tk] [es] [0f] [4j] [8s]
+[qg] [eh] s g [8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a] [wd] [rh] [wa] [9d]
+[6l] [0s] [ek] [ts] [ej] [0s] [4j] [8s] [qg] [eh] s g [8h] [ws] [tf] [uh]
+[ts] [wf] [5h] [9a] [wd] [rh] [ya] [od] |
+[etu] | [qeti] | [wtu] |
+[wty] - r - [etu] | [qeti] | [wtuo] |
+[wryo] | [60epd] s s s [pd] s s s
+[48qpd] s s s [pd] s s s [8wtog] f f
+f [og] f f o [59wf] d d o g f
+d o [60ed] s s s d s s s
+[48qa] p p p a p p p [8wto] f f
+f [og] f f o [59wf] d d o g f
+d o [6d] [0s] e [0s] e [0s] [6d] [0s] e [0s] e [0s]
+[4d] [8s] q [8s] q [8s] [4d] [8s] q [8s] q s [8g] [wof] t [wf]
+t [wf] [8g] [wof] t [wf] t [wo] [5f] [9d] w [9d] w [9o] [5g] [9f]
+w [9d] w [9o] [6d] [0s] e [0s] e [0s] [6d] [0s] e [0s] e [0s]
+[4a] [8p] q [8p] q [8p] [4a] [8p] q [8p] q p [8o] [wf] t [wf]
+t [wf] [8og] [wf] t [wf] t [wo] [5f] [9d] w [9d] w [9o] [5g] [9f]
+w [9d] w [9o] [6s] [0a] [ep] [ts] [ea] [0p] [6f] [0p] [ea] [ts] [ea] [0p]
+[4s] [8a] [qp] [es] [qa] [8p] [4g] [8p] [qa] [es] [qa] p [8f] [wd] [ts] [uf]
+[td] [ws] [8h] [ws] [td] [uf] [td] [ws] [5d] [9s] [wa] [rd] [ws] [9a] [5h] [9a]
+[ws] [rd] [ws] [9a] [6s] [0a] [ep] [ts] [ea] [0p] [6f] [0p] [ea] [ts] [ea] [0p]
+[4s] [8a] [qp] [es] [qa] [8p] [4g] [8p] [qa] [es] [qa] p [8f] [wd] [ts] [uf]
+[td] [ws] [8h] [ws] [td] [uf] [td] [ws] [5d] [9s] [wa] [rd] [ws] [9a] [5h] [9a]
+[ws] [rd] [ws] [9a] [6l] [0s] [ef] [tk] [es] [0f] [4j] [8s] [qg] [eh] s g
+[8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a] [wd] [rh] [wa] [9d] [6l] [0s] [ek] [ts]
+[ej] [0s] [4j] [8s] [qg] [eh] s g [8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a]
+[wd] [rh] [wa] [9d] [6l] [0s] [ef] [tk] [es] [0f] [4j] [8s] [qg] [eh] s g
+[8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a] [wd] [rh] [wa] [9d] [6l] [0s] [ek] [ts]
+[ej] [0s] [4j] [8s] [qg] [eh] s g [8h] [ws] [tf] [uh] [ts] [wf] [5h] [9a]
+[wd] [rh] [ya] 9 |
+[60ed] o p s o p d o p s o p [48qd] o p s
+o p d o p f o p [8wtd] o p s o p d o
+p f o p [59wd] o p s o p d o p s |
+[60ed] o p s o p d o p f o p [48qd] o p s
+o p d o p s

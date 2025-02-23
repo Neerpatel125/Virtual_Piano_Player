@@ -1,0 +1,33 @@
+[0et]|||
+[0wt]|||
+[qet]|||
+[8qe]| |[9wr]| |
+[0et]| f| s| d|
+[0wtp]| o| s| d s
+[qet]op||s| d s
+[8qe]op||[9wr]| |
+[0et]| f| s| d|
+[0wtp]| o| s| d s
+[qet]op||s| d s
+[8qe]op||[9wr]| |
+[0et]| h| f| d|
+[0wtg]| f| d f ds
+[qetp]| |sdff
+[8qe]d||[9wr]| |
+[0ets]a s s d dd s
+[0wts]a s s d dd s
+[qets]a s s d| d|
+[8qep]s||[9wr]| sd
+[0etf]| [0et] l [0et]| [0etj] h
+[0wt]| [0wt] h[0wt]f fd f
+[qet] d [qet] h[qet]f fd f
+[8qe] d [8qe]| [9wr] s [9wrs]d
+[0etf]| [0et] l [0et]| [0etj] h
+[0wt]| [0wt] h[0wt]f fd f
+[qet] d [qet] h[qet]f fd f
+[8qe] d [8qes]dff[9wr]d d s d
+[0et] sp[0eto]| [0et]| [0et]|
+[0wt]| [0wtf]fhh[0wt]g g f d
+[qet] s[qets] p [qet]| |
+[8qe]| |[9wr]| |
+[0et]

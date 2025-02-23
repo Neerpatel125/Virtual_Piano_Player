@@ -1,0 +1,66 @@
+[18tu] w [tu] w [tu] w [tu] w
+[3ry] W [ry] W [ry] W [ry] W
+[6tu] e [tu] e [5ry] w [ry] w
+[4et] q [et] q [et] q [et] q
+[16] w o [tus] a [ws] a [tus] [wf] [tu] w
+[3a] a W a [ry] [Ws] s [ry] W [ry] [Wp] d
+6 [es] p [tu] e 5 w [ry] [wp] d
+4 [qs] [etp] q [et] q [et] q
+[16] w o [tus] a [ws] a [tus] [wf] [tu] w o
+[3a] [Wa] [rya] [Ws] s [ry] W [ry] [Wp] d
+6 [es] p [tu] e 5 w [ry] [wp] d
+4 [qs] [etp] q [et] q [et] q
+2 9 [qe] [9p] [qeg] [9f] [qed] a
+5 [wa] [ry] [ws] [ry] [wd] [ry] s p
+2 9 [qe] [9p] [qef] [9d] [qes] a
+[5w] p a s p
+[4h] 8 [qe] 8 [5g] 9 [wr] 9
+[6f] 0 [et] 0 [6p] [0a] [ets] [0p]
+[4h] 8 [qe] 8 [5g] 9 [wr] 9
+[6f] 0 [et] 0 6 0 [et] [0f]
+[4g] [8f] g [qe] [8f] [5g] f [9d] [wr] 9
+[8f] [wf] h 7 [wh] j 6 [0f] [5f] f 9 s
+[4d] s [qp] [qe] 8 [qe] 8 p [qef] [8s] d
+5 w [ry] w f 5 d s a s a
+[6tup] [5ryo]
+[4eti]
+[16] w o [tus] a [ws] a [tus] [wf] [tu] w o
+[3a] W a [ry] [Ws] s [rya] W [ry] p [Wp] d
+6 [es] p [tu] e 5 w [ry] [wp] d
+4 [qs] [etp] q [et] q [et] q
+[16] w o [tus] a [ws] a [tus] [wf] [tu] w o
+[3h] g W f [ry] d W g [ry] f W d [ry] d [Ws]
+[6d] [ef] f [tu] e 5 w [ry] d [ws] d
+4 [qf] g [etf] q [et] q [et] q
+2 9 [qe] [9p] [qeh] [9g] [qef] d
+5 [ws] [ry] [wd] [ry] [wf] [ry] s p
+2 9 [qe] [9p] [qef] [9d] [qes] a
+[5w] p a s p
+[4h] 8 [qe] 8 [5g] 9 [wr] 9
+[6f] 0 [et] 0 [6p] [0a] [ets] [0p]
+[4h] 8 [qe] 8 [5g] 9 [wr] 9
+[6f] 0 [et] 0 6 0 [et] [0f]
+[4g] [8f] g [qe] [8f] [5g] f [9d] [wr] 9
+[8f] [wf] h 7 [wh] j 6 [0f] [5f] f 9 s
+[4d] s [qp] [qe] 8 [qe] 8 p [qef] [8s] d
+5 w [ry] w f 5 d s a s a
+[2qep] [9qep] [uf] 6 [2qeu] 2 [9qe]
+[2qe] [9qeo] [uf] 6 [2qeu] 2 [9qe]
+[2qe] [9qeo] [uf] 6 [2qeu] 2 [9qe] 3 4
+[5wtig] [ig] [ig] [ig] [wig] [uf] 9 [5wruf] [5yd] [wts] [4ep] 3
+[2qe] [9qeo] [uf] 6 [2qeu] 2 [9qef] h
+[2qef] [9qeo] [uf] 6 [2qeu] 2 [9qef] h
+[2qef] [9qeo] [uf] 6 [2qeu] 2 [9qe] [3f] 4
+[5rtupj] [5rtuoh] [5rtuoh] [5rtuf] [5rtupj] [epj] [epj] [epj]
+[etipj] [wyoh] h [qryig] [0etuf]
+[0etuf] 6 [etuf] g g f d [1d] s
+[wetoh] [qryig] [0etuf]
+f 6 e r [1t] [uf] [qetig]
+[0etug] [uf] [qetig] u [uf] [qetig] [ug] [wryd] 5
+[1wtuf] [uf] [wryoh] [wryo] [wryoh] [etupj] [etup] [uf] [wruf] [uf] [ts]
+[qeyd] [ts] [ep] 4 [qp] [ep] [4weuf] [ts] [wryd]
+5 [5d] [wruf] 5 [yd] [ts] [ra] [ts] [ra]
+[6etup] [5wry]
+[Q29e]
+[tu] [wo] [8ts] [ra] [ts] [ra] [0ts] [uf] [wt] w
+[W9ra] [ra] [ra] a [ts] [ts] [ra]

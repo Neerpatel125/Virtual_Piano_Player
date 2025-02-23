@@ -1,0 +1,91 @@
+z z k|j|
+[80e]|e po[ep] po[ep]|
+[80e]|e p [ep] po[ep]|
+[79wu]|w po[wp] p [wp]|
+[79w]|w p [wp] po[wp]|
+[469u]|9 po[9p] po[9p]|
+[469]|9 p [9p] po[9p]|
+[68q]|q p [qp] po[qp]|
+[68qu]|q o [qo] a [qp]|
+6 0 t p p f [ef]|
+6 0 t d d h [eh]|
+[5a] 9 r a a ap[wa]|
+5 9 r a a|[wd]|
+[2p] 6 q||9|
+2 6 q|p|[9o] a
+[4p] 8 e||q|
+4 8 e s s f [qd] s
+[60ed] d a|[0ts]|
+[60ed] d a|[0ts]|
+[59wd] d a|[9rs]|
+[59wd] d a|s [9ra] p
+[269p] ps d [6qd] f f|
+[269] ps d [6qd] f f|
+[48qd] d a|[8es]|
+[48qd] d a|s [8ea] p
+[80e]|e po[ep] po[ep]|
+[80e]|e p [ep] po[ep]|
+[79wu]|w po[wp] p [wp]|
+[79w]|w p [wp] po[wp]|
+[469u]|9 po[9p] po[9p]|
+[469]|9 p [9p] po[9p]|
+[68q]|q p [qp] po[qp]|
+[68qu]|q o [qo] a [qp]|
+6 8 [0d] [ef] [tf] f| [6d] [8f] [0f] e [th] f f d
+5 7 [9s] [wd] [rd] d| [5s] [7d] [9d] [wf] [rg] f d s
+2 4 [6d] [9f] [qf] f| [2d] [4f] [6f] 9 [qh] f p s
+[48qd] d a|[8es]|
+[48qd] d a|s [8ea] p
+[60]|[60]|[0t]||
+[60s] a [60p] a [0ts] a p a
+[59a]|[59]|[9r]||
+[59s] a [59p] a [9rs] a p d
+[26] p [26]|[6q]||
+[26s] a [26p] o [6qu] o p a
+[48p]|[48]|[8e]| a
+[48p]|[48]|[8e]||
+6 0 t p p f [ef]|
+6 0 t d d h [eh]|
+[5a] 9 r a a ap[wa]|
+5 9 r a a|[wd]|
+[2p] 6 q||9|
+2 6 q|p|[9o] a
+[4p] 8 e||q|
+4 8 e s s f [qd] s
+[60ed] d a|s| d d a|s|
+[59wd] d a|s| d d a|s a p
+[269p] ps d d f f| ps d d f f|
+[48qd] d a|s| d d a|s a p
+[60ed] d a|s| d d a|s|
+[59wd] d a|s| d d a|s a p
+[269p] ps d d f f| ps d d f f|
+[48qd] d a|s| d d a|s a p
+6 0[ea] [0s]| k l
+6 0[ea] [0s]| k l
+5 9[wa] [9s]| k l
+5 9[wa] [9s]| k l
+[269p] ps d [6qd] f f|
+[269] ps d [6qd] f f|
+[48qd] d a|[8es]|
+[48q]| s [8es] f d s
+[60ed] d a|[0ts]|
+[60ed] d a|[0ts]|
+[59wd] d a|[9rs]|
+[59wd] d a|s [9ra] p
+[269p] ps d [6qd] f f|
+[269] ps d [6qd] f f|
+[48qd] d a|[8es]|
+[48qd] d a|s [8ea] p
+[80e]|e po[ep] po[ep]|
+[80e]|e p [ep] po[ep]|
+[79wu]|w po[wp] p [wp]|
+[79w]|w p [wp] po[wp]|
+[469u]|9 po[9p] po[9p]|
+[469]|9 p [9p] po[9p]|
+[68q]|q p [qp] po[qp]|
+[68qu]|q o [qo] a [qp]|
+6 8 [0d] [ef] [tf] f| [6d] [8f] [0f] e [th] f f d
+5 7 [9s] [wd] [rd] d| [5s] [7d] [9d] [wf] [rg] f d s
+2 4 [6d] [9f] [qf] f| [2d] [4f] [6f] 9 [qh] f p s
+[48d] d a|s|
+[48d] d a|s a p 6

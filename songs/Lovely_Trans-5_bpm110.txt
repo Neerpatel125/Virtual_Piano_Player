@@ -1,0 +1,39 @@
+p s p s p s p s p s p s p s p s
+[tqpe] s p s p s p s p s p s [ywrf] s p s
+[utpe] s p s f s p s [ywro] a o a f a o a
+[tqpe] s p s p s p s p s p s [ywrf] s p s
+[utpe] s p s f s p s [ywro] a o a f a o a
+[tqed] f f d d|||
+[uted] f f d d|s|[ywr]||p p
+[tqed] f f d d|||p p
+[uted] f f d d|s|[ywr]|d f d|s|
+[tqpe]||[ywra]||[utse]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpe]||[ywra]||[utse]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpie]||[ywroa]||[utspe]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpie]||[ywroa]||[utspe]||d|f|
+[tpji]||[uroh]||[yrof]|||
+[xtqe]| zlk|j||zlk||
+[xute]| zlk|j|[ywrk]|j|l||
+[xtqe]| zlk|j||zlk||
+[ute]|k l k||[ywrk]|j||l|
+p s p s p s p s p s p s p s p s
+[tqed] f f d d|||
+[uted] f f d d|s|[ywr]||p p
+[tqed] f f d d|||p p
+[uted] f f d d|s|[ywr]|d f d|s|
+[tqpe]||[ywra]||[utse]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpe]||[ywra]||[utse]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpie]||[ywroa]||[utspe]||d|f|
+[tpji]||[uroh]||[yrof]|d f d|s|
+[tqpie]||[ywroa]||[utspe]||d|f|
+[tpji]||[uroh]||[yrof]|||
+[xtqe]| zlk|j||zlk||
+[xute]| zlk|j|[ywrk]|j|l||
+[xtqe]| zlk|j||zlk||
+[ute]|k l k||[ywrk]|j||l|
+p s p s p s p s p s p s p s p s

@@ -1,0 +1,61 @@
+6 0 t 0 t 0 t 0 6 0 t 0 t 0 t 0
+6 j [0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p
+[tp] s [0s] h [9h] g [eg] f [ig] h [eg] f [9g] e
+i e 5 g [9g] h [rh] j [9j] k [rk] h [9h] d [5d] g
+[9g] f [8g] f [wf] d [tf] g [0f] d [0f] W
+r 0 6 j [0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p
+[tp] s [0s] h [9h] g [eg] f [ig] h [eg] f
+[9g] e i e 5 g [9g] h [rh] j [9j] k [rk] h [9h] d [rd] g [9g] f [8g] f [wf] d [tf] g f d
+[0f] r [uc] x [Ox] z [ax] c [fx] z [Hx] k f [ex] [uj] [pl] [az] [sx] [fz] l [ex] [uj] [pl]
+[az] [sx] [fz] l [9c] e [yj] [uz] [ix] [pc] x z [9c] e [yj]
+[uz] [ix] p c k [5v] 9 w [rb] [yv] o a [db] v h d a
+o a v b [8x] w t u t u x [rc] [0x] [yz] [rl] [yk] [rj] [yH]
+[rj] [0k] [6x] 0 [ej] [rl] [tz] [ux] [pz] [ul] [ex] r [tj] [ul]
+[pz] [ux] [tz] [el] [9c] e [yj] [uz] [ix] [pc] [dx] z [9c] e
+[yj] [uz] [ix] p c k x [5v] 9 w [rb] [yv] o a b v d h d
+a v b v b [8x] w t u t u x [rc] [0x] [yz] [rl] [Wk] [yj]
+[rk] [ul] [yz] [0x] r u O a d f H k x
+6 b [0b] n [tn] m [0m] n [tn] b [0b] x [6x] l [0l] j [tj] l
+[0l] v [9v] c [ec] x [ic] v [ec] x
+[9c] e i e 5 c [9c] v [rv] b [9b] n [wn] v [rv] z [yz] c [rc] x
+[8c] x [wx] z [tx] c [0x] z
+[0x] r u W 6 j [0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p [tp] s [0s] h [9h] g [eg] f
+[ig] h [eg] f [9g] e i e 5 g [9g] h [rh] j [9j] k
+[wk] h [rh] d [yd] g [rg] f [8g] f [wf] d
+[uf] g [wf] d [0f] r y W [6x] [ej] [rl] [tz] [ux] [pz]
+[ul] [ex] [uj] [pl] [az] [sx] [fz] [sl] [9c] [ej] [yz]
+[ux] [ic] [px] z [9c] e [yj] [uz] [ix] p c k x [5v] 9 w
+[rb] [yv] o a b v d h d a v b v b [8x] w t u
+t u x c [3x] [7z] [0l] [Wk] [rj] [yH] [rj] [0H] [6f] 0 [ep] [rs]
+[td] [rf] d [us] [ef] r [tp] [us] [td] [uf] d [es] [9g] e [yp] [ud]
+[if] [pg] f [ed] [9g] e [yp] [ud] [if] p g a d [wh] r y
+[oj] [yh] r y [oj] [ah] d h d a h j h j [tf] u o s
+o u z c [0x] [Wz] [rx] [uc] [Ox] a f H k z x V n x x [6l] f
+[0f] g [9g] d [qd] k j [5k] d [rd] g [8f] s [ts] j h [6j] s
+[0s] d [7d] a [rf] d [3f] a d f H k x [6m] x
+[0x] c [9c] z [qz] n b [5n] [wz] r [yz] c [8x] l [wl] b v [6b] l
+[0l] z [7z] k x z [3x] 7 0 W r y u O a d f H k z x V n z x
+6 b [0b] n [tn] m [0m] n [tn] b [0b] x [6x] l [0l] j [tj] l [0l] v
+[9v] c [ec] x [ic] v [ec] x [9c] e i e 5 c [9c] v
+[rv] b [9b] n [wn] v [rv] z [yz] c [rc] x
+[8c] x [wx] z [tx] c [0x] z [0x] r u W 6 j [0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p
+[tp] s [0s] h [9h] g [eg] f [ig] h [eg] f [9g] e i e 5 g
+[9g] h [rh] j [9j] k [wk] h [rh] d
+[yd] g [rg] f [8g] f [wf] d [tf] g [0f] d [0f] r y W
+[6x] [ej] [rl] [tz] [ux] [pz] [al] [ex] [tj] [ul]
+[pz] [ax] [sz] [fl] [yc] i [pj] [dz] [px] [dc] [px] [dz]
+[yc] u [ij] [pz] [dx] f [gc] [wv] r y b [av] d h b v d h d
+a o v b [8x] w t u t u [rx] c [0x] [Wz] [rm] [yn] [rb]
+[yV] [rn] [WV] [Ox] c x z x c [ex] t [uj] [pl] [az] [sx]
+[fz] l [ex] r [tj] [ul] [pz] [sx] z [pl] [yc] u [ij] [pz] [dx]
+[pc] [dx] z [9c] e [yj] [uz] [ix] p [dc] [wv] r y b v o
+a b v d h d a v b v b [8x] w t u t u x c [0x] [yz]
+[rl] [Wk] [yj] [rH] [uj] k [0f] O a f H k x f x f x [6l] f [tf] g [9g] [qd] [ed] k j [5k] d [rd] g [8f] [ws] [ts] j h [6j] s [ts] d [rd] a [rypa] f d [0f] O a f
+H k z x V n x n V x [em] x [ux] c [yc] [iz] [pz] n b [wn] [oz] [az]
+c [tx] [ol] [sl] b v [eb] l [tl] [uz] [rz] k [rypx] z
+[H0x] u O a f H k x n V x x 6 j [0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p
+[tp] s [0s] h [9h] g [eg] f [ig] h [eg] f [9g] e i e 5 g [9g] h [rh] j
+[9j] k [wk] h [rh] d [yd] g [rg] f [8g] f [wf] d [tf] g [0f] d [0f] r u W 6 j
+[0j] k [tk] l [0l] k [tk] j [0j] f [6f] s [0s] p [tp] s [0s] h [9h] g [eg] f [ig] h [eg] f [9g] e i e 5 g [9g] h [rh] j [9j] k [wk] h [rh] d [yd] g [rg] f [8g] f [wf] d [tf] g f d [0f] r u [Oc] [ax] [fx] [Hz] [kx] c x z
+[ux] a f H k f H k z x V x n V x n [fx] f H V j [6b] 0 e t u p
+a s x [jb] m z x x [lz] m x x b m x b n m ? p f j b m x b

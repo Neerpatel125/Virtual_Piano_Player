@@ -1,0 +1,103 @@
+[60]|u|e||
+[e84] e e e e w w|
+[95]|u|e||
+[we8] e e e e w w w [60]|||[84]||
+y [u95] y u y u o u|
+[w8]|t t t t y|
+[w60] e t [60]e ty e
+[w84] e t [84]e tyu
+[w95] e t [95]e ty e
+[w8] e t [w8]e tyu
+[w60] e [t60] e t[y60] e
+[w84] e [t84] e [t84]yuy[95]| [95]|
+[t95]yuy[w8]| [w8]| [w8]|
+[60]|f [60] p|[60]|
+[p84] p p [p84] p o [o84]|
+[95]|f [95] p|[95]|
+[wp8] p p [wp8] p|[wo8] o
+[84]| [84]| [84]|
+[84]| [84]| [84] p
+[a95] p a [p95] a p [s95]|
+[60]|s [s60] s s [d60]|
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o5] [p9] [ws] 5p [s9]d [wp]
+[o8] [wp] [ts] 8p w[ws]d[tf]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p 8sd[qf]d
+5 9 w 5 9sd[wf]d8 w t 8 w t
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w5] [e9] [wt] 5e [t9]y [we]
+[w8] [we] [wt] 8e wty[wu]
+[w4] [e8] [tq] [t4]e [t8]y [qe]
+[w4] [t8] [tq] 4e 8ty[uq]y5 9 w 5
+9ty[wu]y8 w t 8 w t
+[60]|u [60] e|[60]|
+[qe6] e e [qe6] e w [wq6]|
+[ywr6]| [w6]| [w6]|
+[wut6]| [w6]| [w6]|
+[60]|u [60] e|[60]|
+[qe6] e e [qe6] e w [wq6]|
+[ywr6]| [w6]| [w6]|
+[wut6]| [w6]| [w6]|
+[60]|i [60] u|[60]|
+[yq6] y y [q6] y t [yq6]|
+[ywr6]| [w6]| [w6]|
+[wut6]| [w6]| [w6]|
+[60]|u [60] e|[60]|
+[qe6] e e [qe6] e w [wq6]|
+[ywr6]| [w6]| [w6]|
+[w6]| [w6]| [w6]|
+[60]|f [60] p|[60]|
+[p84] p p [p84] p o [o84]|
+[95]|f [95] p|[95]|
+[wp8] p p [wp8] p|[wo8] o
+[84]| [84]| [84]|
+[84]| [84]| [84] p
+[a95] p a [p95] a p [s95]|
+[60]|s [s60] s s [d60]|
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o5] [p9] [ws] 5p [s9]d [wp]
+[o8] [wp] [ts] 8p w[ws]d[tf]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p 8sd[qf]d5 9 w 5
+9sd[wf]d8 w t 8 w t
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w5] [e9] [wt] 5e [t9]y [we]
+[w8] [we] [wt] 8e wty[wu]
+[w4] [e8] [tq] [t4]e [t8]y [qe]
+[w4] [t8] [tq] 4e 8ty[uq]y5 9 w 5
+9ty[wu]y8 w t 8 w t
+[60]|u [60] e|[60]|
+[e84] e e [e4] e w [w4]|
+[95]|u [95] e|[95]|
+[we8] e e [we8] e w [w8] w
+[60]| [60]| [60]|
+[84]| [84]| [84] r
+[95] tre [r95] t|[95]|
+[w8]| [w8]| [w8]|
+[60]|f [60] p|[60]|
+[p84] p p [p84] p o [o84]|
+[95]|f [95] p|[95]|
+[wp8] p p [wp8] p|[wo8] o
+[84]| [84]| [84]|
+[84]| [84]| [84] p
+[a95] p a [p95] a p [s95]|
+[60]|s [s60] s s [d60]|
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o5] [p9] [ws] 5p [s9]d [wp]
+[o8] [wp] [ts] 8p w[ws]d[tf]
+[o4] [p8] [sq] 4p [s8]d [qp]
+[o4] [p8] [sq] 4p 8sd[qf]d5 9 w 5
+9sd[wf]d8 w t 8 w t
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w4] [e8] [tq] 4e [t8]y [qe]
+[w5] [e9] [wt] 5e [t9]y [we]
+[w8] [we] [wt] 8e wty[wu]
+[w4] [e8] [tq] [t4]e [t8]y [qe]
+[w4] [t8] [tq] 4e 8ty[uq]y5 9 w 5
+9ty[wu]y8 w t 8 w t

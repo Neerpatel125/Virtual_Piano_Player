@@ -1,0 +1,24 @@
+[80wf] G d d d d G a - d d [80wG] a d d d d d d G a
+[0wr] d d d d d d G a - d d [0wrG] a d d [79Qd] d d d G a
+[80w] d d d d d d G a - d d [80wG] a d d d d d d G a
+[0wr] d d d d d d G a - d d d [0wrG] a d d d [79Qd] d d d G a
+
+[80wh] h j h G f d a f G G a
+[80wh] h j h G f d a f G f d
+[0wrh] h j h G f d a f G G
+a a [0wrf] f G G f d d a [79Qf] G f
+
+d d [80wf] f h j j a f h G
+[80wf] f f G f d d a f G G a
+[0wrf] f f G f d d a f G G
+a a a [0wrf] f G G f d d a [79Qf] G f
+
+G [80wf] G [80wf] G [0wrf] G
+G [0wrh] j h G [79Qh] G f
+G [80wf] G [80wf] G [0wrf] G h G f
+[0wrh] j h G [79Q] f f a
+
+[80wG] G G h h f [80wG] G G h h
+f [0wrG] G G j h f [0wrG] d f [79Qk] j h j
+[80wG] G G h h f [80wG] G G h h
+f [0wrG] G G j h f [0wrG] d f [79Qk] j h j k j

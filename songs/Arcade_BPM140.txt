@@ -1,0 +1,88 @@
+[etij]| l [wryk]| z
+[wruh]| h [etij]|||
+[etij]| l [wryk]| z
+[wruh]| h [etij]|||
+s
+[etis]|d|[wryf]| s
+[wrua]|d|[etis]|||
+[etis]|d|[wryf]| s
+[wrua]| a [etis]|||
+[etih]| h [wryg] f|f
+[wrud]|h|[etif]|||
+s|
+[etih] h h|[wryd] d d|
+[wrud] d f|[etip]|||
+[etis]|d|[wryf]| s
+[wrua]|d|[etis]|||
+p
+[etis]| d [wryf]| s
+[wrua]|d|[etis]|||
+[etih]|h|[wryg] g f|
+[wrud]|h|[etif]|||
+s|
+[eh] h h|[rd] d d|
+[wd] d f|[ep]|||
+[etip]|f|[etif]|d s
+[wryp]|f|[wryf]||
+[etu]|d g [etuf] d|s
+[wryp]|f|[wryf]||
+[etip]|f|[etif]|d s
+[wryp]|f g [wryf]||
+[eyi] d d g f d s a p|f|f| d
+[etul]||[etu] k l k
+[wry] j| [wry]||
+[wtuf]||[wtu] h f|
+[etip]||[etig]|g|
+[etuf]||[etuf] h f|
+[wryd]| s [wrya]||
+[etip]|f|f|d s p|f|f|||
+[etis]|d d [wryf]|s|
+[wrua]|d|[etis]|||
+[etis] s d|[wryf]|s|
+[wrua]| a [etis]|||
+[etih]|h h [wryg]|f|
+[wrud]|h|[etif]|||
+s s
+[etih] h h|[wryd] d d|
+[wrud] d f|[etip]|||
+[etul]||[etu] k l k
+[wry] j| [wry]||
+[wtuf]||[wtu] h f|
+[etip]||[etig]|g|
+[etuf]||[etuf] h f|
+[wryd]| s [wrya]||
+[etip]|f|[etif]|d s
+[etip]|f|[etif]||
+[etul]||[etu] k l k
+[wry] j| [wry]||
+[wtuf]||[wtu] h f|
+[etip]||[etig]|g|
+[etuf]||[etuf] h f|
+[wryd]| s [wrya]||
+[etip]|f|[etif]|d s
+[etip]|f|[etif]||
+[eyi]||f g g f
+[wtuf]|f|f|d s
+[wry]|||
+[wtu]||d f f f
+[wrud]|d|s d|f
+[eti]|||
+[etul]||k l k
+[wry] j||
+[wtuf]||h f|
+[etip]||g|g|
+[etuf]||f h f|
+[wryd]| s a||
+[qetp]|f|f|d s
+p|f|f||
+[eyil]||[eyi] k l k
+[wru] j| [wru]||
+[etif]||[eti] h f|
+[wryh]||[wryg]|g|
+[etuf]||[etuf]|f|
+[wryd]| s [wrya]||
+[etip]|f|f|d s p|f|f||
+[etij]| l [wryk]| z
+[wruh]| h [etij]|||
+[etij]| l [wryk]| z
+[wruh]| h [etij]

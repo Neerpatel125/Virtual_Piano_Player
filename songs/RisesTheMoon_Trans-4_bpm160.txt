@@ -1,0 +1,59 @@
+9|[tip]|[tip]|
+9|[tip]|[tip]|
+9|[rip]|[rip]|
+9|[rip]|[ripg]|
+[9f]|[tip]|[tip] a
+[9s] d [tipf] g [tiph] j
+[9f]|[rip]|[rip]|
+[rip]||
+[9f]|[tp]|[tp] a
+[9s] d [tpf] g [tph] j
+[9f]|[rp]|[rp]|
+9|[rp]|[rp]|
+[9l]|[tp]|[tpj]|
+[9h]|[tp]|[tpg]|
+[qj]|[tp]|[tp]|
+[Dqtpg]||s
+[Ed] g [Eyih] j [Eyih]|
+E|[EPyd] g [EPyh] j
+[Eh]|[ETu]|[ETu]|
+[Ehv]|[gc]|[hv]|
+[9fx]|[tp]|[tp]|
+[9flx]|[tp]|[tp]|
+[9dkz]|[rp]|[rp]|
+9|[rp]|[rip]|
+[9f]|[tp]|[tp] a
+[9s] d [tpf] g [tph] j
+[9f]|[rp]|[rp]|
+9|[rp]|[rp]|
+[9l]|[tp]|[tpj]|
+[9h]|[tp] g [tp]|
+[qj]|[tp]|[tp]|
+[Dqtpg]||s
+[Ed] g [Eyih] j [Eyih]|
+E|[EPyd] g [EPyh] j
+E|[ETuh]|[ETu]|
+[Ehv]|[gc]|[hv]|
+[9fx]|[tp]|[tp]|
+9|[tp]|[tp]|
+9|[Tp]|[Tp]|
+9|[Tp]|[Tp]|
+[qgc]|[tip]|[tip]|
+[qhv]|[tip]|[tip]|
+[Ejb]|[Tip] [JB] [Tip]|
+[Elm]|[Tipjb] [jb] [Tip]|
+[qhv]|[tip]|[tip]|
+q|[tp]|[tp] [gc]
+[Ehv] [jb] [Thv] [jb] [ihv] [jb]
+[Ehv] [jb] [Tgc]|[ufx]|
+[qgc]|[tip]|[tip]|
+[qhv]|[tip]|[tip]|
+[Ejb]|[Tipjb] [JB] [Tip]|
+[Elm]|[Tipjb] [jb] [Tip]|
+[qhv]|[tip]|[tip]|
+q|[tip]|[tip]|
+[Ehv]|T|i|
+[Egc]|T|u|
+q|[tufx]|[tu]|
+q|[tu]|[tu]|
+[tu]

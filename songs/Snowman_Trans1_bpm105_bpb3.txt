@@ -1,0 +1,44 @@
+[180] w t u t w 0 w t u t [5w]
+[180] w t u o s f| |
+[2q] e y i y [5e] [6q] e y [4i] y e
+[5w] r y o y [7r] [9w] r y [7o] y r
+[10] w t u t [3w] [50] w t [3u] t w
+[60] e t u t [1e] [30] e t [1u] t e
+[2q] e y i y [4e] [6q] e y [4i] y e
+[5w] r y o y [7r] [9w] r y [7o] y r
+[10] w t u t [3w] [50] w t [3u] t w
+[60] e t u t [1e] [30] e t [1u] t e
+[3u] o a [7uof] a [3o] [6s] p u [0psf]| 6
+[5o] a d [9oag] d [5a] [8f] s o [wosf]| 8
+[3u] o a [7uof] a [3o] [6p] s u [0psf]| 6
+[4etu]||[ety]| 4 [5eti]||[etu]| 5
+[1wtu]||[8wtu]| 1 [3ruo]||[0ruo]| 3
+[6etu]||[etu]| 6 [4wet] 8 q w t y
+[1wtu]||[8wtu]| 1 [3ruo]||[0ruo]| 3
+[6e]tup| 0 [etu] 6 [4eti] 8 q [wt] w 9
+[1wtu]||[8wtu]| 1 [3wru]||[0wru]| 3
+[6etu]||[etu]| 6 [8eti]||[eti]| 8
+[1wtu]||[8wtu]| 1 [3wru]||[0wru]| 3
+[6etu]||[etu]| 6 [4e]ti8 q [eti]||
+[180] w t u t w 0 w t u t [5w]
+[180] w t u o s f| |
+[2q] e y i y [5e] [6q] e y [4i] y e
+[5w] r y o y [7r] [9w] r y [7o] y r
+[10] w t u t [3w] [50] w t [3u] t w
+[60] e t u t [1e] [30] e t [1u] t e
+[2q] e y i y [4e] [6q] e y [4i] y e
+[5w] r y o y [7r] [9w] r y [7o] y r
+[10] w t u t [3w] [50] w t [3u] t w
+[60] e t u t [1e] [30] e t [1u] t e
+[3u] o a [7uof] a [3o] [6s] p u [0psf]| 6
+[5o] a d [9oag] d [5a] [8f] s o [wosf]| 8
+[3u] o a [7uof] a [3o] [6p] s u [0psf]| 6
+[4etu]||[ety]| 4 [5eti]||[etu]| 5
+[1wtu]||[8wtu]| 1 [3ruo]||[0ruo]| 3
+[6etu]||[etu]| 6 [4wet] 8 q w t y
+[1wtu]||[8wtu]| 1 [3ruo]||[0ruo]| 3
+[6e]tup| 0 [etu] 6 [4eti] 8 q [wt] w 9
+[1wtu]||[8wtu]| 1 [3wru]||[0wru]| 3
+[6etu]||[etu]| 6 [8eti]||[eti]| 8
+[1wtu]||[8wtu]| 1 [3wru]||[0wru]| 3
+[6etu]||[etu]| 6 [4e]ti8 q [eti]
