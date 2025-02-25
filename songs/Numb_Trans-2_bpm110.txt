@@ -1,0 +1,57 @@
+f h f [6j] 0 e [tl] - e [0k] - 4 8 q e -
+[qf] [8h] f [1l] 5 8 [0k] - 8 [5h] - 5 9 w r - [wuf] [9oh] [uf]
+[6pj] [30] [6e] [8tsl] - [6e] [30ak] - 4 [18] [4q] [6e] - [4quf] [18oh] [uf]
+[18sl] [5w] [8t] [0uak] - [8t] [5woh] - 5 [29] [5w] [7r] - [5wf] [29h] f
+[6j] 0 [ef] [tf] f [ef] [0g] f 4 [8f] [qd] [es] - q 8 o
+[1f] [5f] [8d] [0s] - [8d] 5 o [5f] [9f] [wd] [rs] - [wd] 9 -
+6 0 [ef] [tf] f [ef] [0g] f 4 [8f] [qd] [es] - q 8 o
+[1f] [5f] [8d] [0s] - [8d] 5 o [5f] [9d] w [rs] - [wd] 9 f
+4 8 [qp] [ep]-p-p [qp]-p-8-p p-[5p] [9p]-p-[wp] [rp] - w [9f] f
+[4j] [8j] [qh] [ef] - [qf] [8f] f [1j] [5j] [8h] [0f] - [8g] 5 h
+4 8 [qp] [ep]-p-p [qp]-p-8-p p-[5p] [9p]-p-[wp] [rp] - w 9 -
+[6epj] [30] [6e] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[6epj] [30] [6epj] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[6epj] 0 [ej] [tj] j [ej] [0h] j 4 [8h] [qh] [eh] - q 8 -
+[1j] [5h] [8h] [0h] - [8f] 5 f [5g] [9f] w [rd] - [wf] 9 f
+6 [0s] [ef] [tf] f [ef] [0g] f 4 [8f] [qd] [es] - q 8 o
+[1f] [5f] [8d] [0s] - 8 5 - [5f] [9d] w [rs] - [wd] 9 f
+4 8 [qp] [ep]-p-p [qp]-p-8-p p-[5p] [9p]-p-[wp] [rp] - w [9f] f
+[6j] [0j] [eh] [tf] - [ef] [0f] f [4j] [8j] [qh] [ef] - [qg] 8 h
+1 5 [8p] [0p]-p-p [8p]-p-5-p p-[5p] [9p]-p-[wp] [rp] - w [9f] f
+[6j] [0j] [eh] [tf] - [ef] [0f] f
+[18tsl] [5w]-[rak]-[8t] [0tusl] - [8t] [5wrak] -
+[6epj] [30] [6e] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[6epj] [30] [6epj] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[4epj] 8 q e - [qepj] [8tsl] [rak] 5 9 w r - [wepj] [9rak] -
+[6tsl] 0 e 0 [7rak] w t w [8tsl] w t w [5rak] 9 w 9
+[4epj] 8 q e - [qepj] [8tsl] [rak] 5 9 w r - w [9rak] [epj]
+[3rak] [7rak] 0 [rak] - [7epj] [0rak] [7epj]
+[3rak] [7rak] 0 [rak] - [7rak] [0tsl] [7rak] 3 7 [0epj] | [7woh] 0 7
+[6epj] [30] [6e] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[6epj] [30] [6epj] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8etpj] [0eupj] [epj] [8t] [5woh] -
+[5epj] [29] [5wepj] [7erpj] [epj] [5w] [29woh] -
+[6epj] [30] [6e] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8tfx] [0ufx] [fx] [8tfx] [5wgc] [fx]
+5 [29fx] [5wdz] [7rsl] - [5w] [29] -
+[6epj] [30] [6e] [8etpj] [epj] [6e] [30woh] -
+[4epj] [18] [4qepj] [6epj] [epj] [4q] [18rak] -
+[18woh] [5w] [8tfx] [0ufx] [fx] [8tfx] [5wgc] [fx]
+5 [29fx] [5wdz] [7rsl] - [5w] [29ak] - [6pj]
