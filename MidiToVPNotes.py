@@ -23,7 +23,7 @@ def midi_to_virtual_sheet(midi_file, output_file, bpm):
         bpm = extract_bpm(midi)
     # Calculate beats per second and the actual hold limit in beats
     beats_per_second = bpm / 60
-    space_delay = .075 / beats_per_second
+    space_delay = .0625 / beats_per_second
     dash_delay = 2 * space_delay
 
     sheet_music = []
@@ -74,7 +74,7 @@ def midi_to_virtual_sheet(midi_file, output_file, bpm):
 
 if len(sys.argv) < 3:
     print("Please enter the correct parameters:")
-    print("\t1. The MIDI file name (without '.mid'), and make sure it's in the download's folder!")
+    print("\t1. The MIDI file name")
     print("\t2. The name of the song (code will add bpm and bpb to the file name).")
     print("\t3. [Optional] The BPM of the song.")
     print("\t4. [OPTIONAL] Limit the time period of silence (seconds). Used to avoid awkward pauses when a note is held for a long time.")
@@ -85,6 +85,6 @@ if len(sys.argv) > 3:
     if sys.argv[3].isnumeric(): bpm = int(sys.argv[3])
 if len(sys.argv) > 4:
     SILENCE_LIMIT = float(sys.argv[4])    #seconds
-midi_to_virtual_sheet(f"~/Downloads/{fileName}.mid", f"./songs/{sys.argv[2]}", bpm)
+midi_to_virtual_sheet(f"{fileName}", f"./songs/{sys.argv[2]}", bpm)
 
 
