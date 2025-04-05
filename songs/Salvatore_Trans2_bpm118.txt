@@ -1,0 +1,65 @@
+f g f d 
+f f g f d f j f 
+f d d f d s 
+d d f d s d g d 
+f f g f d 
+[pf] f g f d f j f 
+[of] d d s a p 
+[Ou] d s a p O d a 
+[es] 
+[6s] p 8 [0eu] [8y] [6u] Y 8 [0eu] [6s] 
+[5a] [7o] [9wy] 7 5 7 [9wy] [7a] 
+[4p] [8i] [qet] 8 4 8 [qet] [8p] 
+[O3] 7 [W0u] y u O [qeyip] [wryoa] 
+[6ups] p 8 [0eu] [8y] [6u] Y 8 [0eu] [6s] 
+[5yoa] [7o] [9wy] 7 5 7 [9wy] [7a] 
+[4tip] [8i] [qe] t 8 4 8 [qet] [8p] 
+[O3ru] 7 [WO0ru] [qeyip] [wruoaf] g f d 
+[etuf] [etuf] g f d [etuf] [etuj] f 
+[wryf] [wryd] [wryd] f d S 
+[W0rd] [W0rd] f d S [W0rd] [W0rg] d 
+[0etf] [0ef] g f d 
+[6pf] 0 [ef] g [0f] d [ef] 0 [ej] 0 f 
+[5of] [9d] w 9 w 9 [wd] s [9a] p 
+[O3u] 7 [Wd] s [0a] p [O3] 7 [Wd] [0a] 
+[60t] u p 
+[el] j t [upf] [td] [ef] D t [upf] [el] 
+[wk] [rh] [yo] d r w r [yo] d [rk] 
+[qj] [tg] [ip] s t q t [ips] [tj] 
+[H0] r [Ouf] d f H [ipdgj] [oadhk] 
+[6ups] p 8 [0eu] [8y] [6u] Y 8 [0eu] [6s] 
+[5oa] [oaf] 7 [9woaf] 7 5 7 [9wf] [7a] d 
+[4ipd] [8s] [qep] 8 4 8 [qes] [8p] 
+[O3ua] 7 [WO0ru] [qeyi] [wryu] i u y 
+[6eu] 0 [eu] i [0u] y [eu] 0 [ep] 0 u 
+[5wu] [9y] w 9 w 9 [wy] u [9y] T 
+[30y] 7 [Wy] u [0y] T [3y] 7 [Wi] 0 y 
+[6eu] 0 e 0 e 0 [eu] i [0u] y 
+[6eu] 0 [eu] i [0u] y [eu] 0 [ep] 0 u 
+[5wu] [9y] w 9 w 9 [wy] t [9r] e 
+[W30] 7 [Wy] t [0r] e [W3] 7 [Wy] [0r] 
+[680] 0 e u I O 
+[6t] u a 0 p [eu] t 0 [ea] 0 p [5wu] t 9 7 
+[4qo] 8 i [qt] 8 [qo] 8 i [qt] e 8 
+[W30] 7 u [0u] 7 [W9] [W2] 6 u [9y] 6 
+[6et] 0 e 0 e 0 [5oaf] G H 
+[6sfk] 0 j [ef] s 0 [esfk] 0 j [5of] s 9 7 
+[4psh] 8 g [qs] [8p] [qpsh] 8 g [es] q [8p] 6 
+[O3u] [7f] [0f] 7 [I29y] I f [30d] 
+[60s] u i u y 
+[eub] l j l [ub] [il] [uj] [yl] [ub] l j l [pb] l j [ul] 
+[wuv] z [yk] z v z k z v z k z [yv] [uz] [yk] [Tz] 
+[V0y] x k x [Vy] [ux] [yk] [Tx] [Vy] x k x [Vi] x k [yx] 
+[eub] l j l b l j l b l j l [ub] [il] [uj] [yl] 
+[eub] l j l [ub] [il] [uj] [yl] [ub] l j l [pb] l j [ul] 
+[wuv] z [yk] z v z k z v z k z [yv] [tz] [rk] [ez] 
+[WV0] x k x [Vy] [tx] [rk] [ex] [WV] x k x [Vy] x [rk] x 
+[6e] 8 0 e t u p u i u y 
+[6eu] 0 [eu] i [0u] y [eu] 0 [ep] 0 u 
+[5wu] [9y] w 9 w 9 [wy] u [9y] t 
+[30y] 7 [Wy] u [0y] t [3y] 7 [Wi] 0 y 
+[6eu] 0 e 0 e 0 [eu] i [0u] y 
+[6eu] 0 [eu] i [0u] y [eu] 0 [ep] 0 u 
+[5wu] 9 [wy] 9 w 9 [wy] t [9r] e 
+[W30] y t r e W y r 
+[36e] 
