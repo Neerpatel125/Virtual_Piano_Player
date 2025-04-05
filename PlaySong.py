@@ -104,7 +104,7 @@ if len(sys.argv) > 2:
 if not isMidi or spaceDelay is None or dashDelay is None:
 	beats_per_second = bpm / 60
 	spaceDelay = .25 / beats_per_second			
-	dashDelay = 2 * spaceDelay
+	dashDelay = 0.75 * spaceDelay
 
 print("Starting...")
 thread = Thread(target=playSong, args=(song,))
