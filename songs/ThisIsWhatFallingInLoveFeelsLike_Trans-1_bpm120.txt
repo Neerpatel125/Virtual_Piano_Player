@@ -1,0 +1,58 @@
+Transpose -1
+h f
+s o O f
+d [30wto] p a
+s d s f g h
+[4tiWOH] l z x
+c v
+[80w] f D f
+[!*0w] d f o
+[29qe] o f d f
+[59qwi] o d f o p
+[80w] p s s p s s p s !
+[0w] p s s p s s p s
+[29qeg] f s p
+[59qig] f s p o
+[8tsfhk] [sfhk] [sfhk] [sfhk]
+[!J] S [SJ] [SJ] f [SJ]
+[2dgj] [dgj] [dgj] d [dgj]
+[5odgH] [dgH] d O [Og] O
+[80wtf] f f o o o o
+[!*0wf] f f o d f d
+[29qef] d f d f d f d
+[W59qif] d f o o p s
+[80w] o p S [!*0w]
+o p f
+[29qe] g f d s f
+[59qi] g f d s o p s
+[80w] o p S
+[0wof] o p f
+[29qe] g f d s p s f
+[59qi] g f d d d
+d d
+[80w] f D f
+[!*0w] d f o 9
+[2qe] o f d f
+[W59qwi] o d f o p [8w]
+0 p s p s s p s
+[0w] p s [ps] p s s [ps] s
+[29] [qeg] f s p
+[W59qwig] f s p o
+[80w] p s p s p s
+[!0w] p s s p p s p s p s p [ps]
+[29qepg] f s [ps]
+[W59qwig] f s d f
+[80woh] f s o
+[0w!O] f d
+[29qeg] f s p
+[W59qig] f s p o o
+[80wh] f s o
+[!*O0wa] f d
+[29qeig] f s p
+[W59wig] f s p o
+[80wtsfh] [sfhk] [sfhk] [sfhk]
+[!TSJ] [SJ] [SJ] [SJ]
+[29qeidgj] [dgj] g [dgj] [dgj] d
+[59qidgWOH] [dgH] d d d d
+[8t]
+8
