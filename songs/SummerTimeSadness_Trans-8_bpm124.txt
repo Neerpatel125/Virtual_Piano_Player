@@ -1,0 +1,253 @@
+[qtg] 
+[etuf] f g 
+[wyod] 
+[9eyd] 
+[qtg] 
+[etupf] s f 
+[wyod] 
+[9eygj] 
+[qtj] j j j j h f 
+[etu] 
+[wyod] d d d s s 
+[9eyp] 
+[qtj] j j j j h f 
+[etup] s 
+[wyod] d d s s 
+[9eyp] h l h 
+[qj] t [ij] p j h h 
+[ef] t u p [sf] f h f 
+[wd] y [od] d d s s 
+[9p] e y i [ph] h l h 
+[qj] t [ij] p j h h h 
+[ef] t u p [sf] f f 
+[wd] y o d z z z z 
+[9l] e y i p 
+[ql] t i [pj] [sl] p s [pj] 
+[el] [tj] [ul] [pj] [sl] [pj] [sl] [pj] 
+[wl] r y [oj] [al] o a [oj] 
+[9l] [ez] [yl] [ik] [pj] i [pj] [ij] 
+[ql] t i [pj] [sl] [pj] s [pj] 
+[el] [tj] [ul] [pj] [sl] p [sl] [pl] 
+[wl] r [yk] o [ak] o [yk] [rk] 
+[9yj] [ep] [yd] [ig] 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] e 
+[wad] [ad] [ad] w [yoad] s s 
+[9p] 9 [ey] 9 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] [es] 
+[wod] [od] w [yod] s s 
+[9p] 9 [ey] 9 
+q [tj] [ij] [tj] [il] [tz] [il] t 
+[6ej] [tj] [uj] t [uz] t [ul] t 
+w y [oj] [yj] [ol] [yz] [ol] y 
+[9j] [ej] [yj] e [yz] e [yl] e 
+q t [ij] [tj] [il] [tz] [il] t 
+[6ej] [tj] [uj] t [uz] t [ul] t 
+[wk] y o y [ok] [yz] [ok] [yk] 
+[9j] e y i p j l h 
+[qsgj] [sj] q [tisj] h h 
+[esf] e [tusf] [sf] h [ef] 
+[wod] d [wd] [yod] s s s 
+[9ip] 9 [eyj] j l 9 
+[qgj] j j [qj] [tij] h h h 
+[esf] [ed] [tuf] f f [ef] 
+[woad] d [wd] [yoz] z z z 
+[9jl] 9 [ey] 9 
+[qgl] t i [pj] [sl] p s [pj] 
+[efl] [tj] [ul] [pj] [sl] [pj] [sl] [pj] 
+[whl] r y [oj] [al] o a [oj] 
+[9djl] [ez] [yl] [ik] [pj] i [pj] [ij] 
+[qsgl] t i [pj] [sl] [pj] s [pj] 
+[wsfl] [tj] [ul] [pj] [sl] p [sl] [pl] 
+[wdhl] r [yk] o [ak] o [yk] [rk] 
+[9ydgj] [ep] [yd] [ig] 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] e 
+[wad] [ad] [ad] w [yoad] s s 
+[9p] 9 [ey] 9 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] [es] 
+[wod] [od] w [yod] s s 
+[9p] 9 [ey] 9 
+q [tsgj] [isgj] [tsgj] [il] [tz] [il] t 
+[6esfj] [tsfj] [usfj] t [uz] t [ul] t 
+w y [odhj] [ydhj] [ol] [yz] [ol] y 
+[9dgj] [edgj] [ydgj] e [yz] e [yl] e 
+q t [isgj] [tsgj] [il] [tz] [il] t 
+[6esfj] [tsfj] [usfj] t [uz] t [ul] t 
+[wdhk] y o y [odk] [yz] [ok] [yk] 
+[9dgj] e y i p 
+0 r [uh] [rh] h [uh] [rf] [0h] [rj] 
+[0sf] p u p u [esf] [ysf] 
+[wsf] y [od] [yd] [od] y [ws] [yd] 
+[9pf] e [yd] e [ys] e [9p] [eo] 
+0 r [uh] [rh] [uh] [rf] [0h] [rj] 
+[0sf] p u p u [esf] [ysf] 
+[wsf] [yd] o [yd] o [yd] [ws] [yd] 
+[9pf] e [yd] e [ys] e [9p] [eo] 
+[9x] e [yz] e [yl] e [9j] [eh] 
+[9fx] e [ydz] e [ysl] e [9dz] e 
+q [tb] [ib] [pb] [sm] [g] [jm] l 
+[eb] [ub] [pb] s [f] j [lm] x 
+w y [ob] [ab] [dm] [h] [km] z 
+[9b] [eb] [yb] i [p] d [gm] j 
+q t [ib] [pb] [sm] [g] [jm] l 
+[eb] [ub] [pb] s [f] j [lm] x 
+[wn] y o a [dn] [h] [kn] [zn] 
+[9yb] [ep] [yd] [ig] 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] e 
+[wad] [ad] [ad] w [yoad] s s 
+[9p] 9 [ey] 9 
+[qsj] [sj] [sj] [qsj] [tisj] h [sf] 
+[6e] e [up] [es] 
+[wod] [od] w [yod] s s 
+[9p] 9 [ey] 9 
+q [tsgj] [isgj] [tsgj] [pl] [tz] [il] t 
+[6esfj] [tsfj] [usfj] t [oz] t [ul] t 
+w y [odhj] [ydhj] [al] [yz] [ol] y 
+[9dgj] [edgj] [ydgj] e [iz] e [yl] e 
+q t [isgj] [tsgj] [pl] [tz] [il] t 
+[6esfj] [tsfj] [usfj] t [oz] t [ul] t 
+[wdhk] y o y [adk] [yz] [ok] [yk] 
+[9dgj] e y i p Y
+
+
+
+**(old version)**
+-3
+
+[8tuos] 
+[0ruoa] a s 
+[I9eyp] 
+[6etup] 
+[8tuos] 
+[0ruoa] o a 
+[I9eyp] 
+[6etup] 
+[8tof] f f f f d a 
+[0ruo] 
+[I9eyp] p p [Iyp] o o 
+[6etu] 
+[8tod] f f f [of] d a 
+[0ruo] o 
+[I9eyp] p [Iyp] o o 
+[6etu] f h d 
+[8of] f [tof] d d 
+[0ruoa] 0 [ruoa] [oa] d a 
+[I9eyp] p [Ieyp] p o o 
+[6etu] [epsf] [psf] G d 
+[8tof] f [tof] f d d 
+[0ruoa] u [ruoa] a a a 
+[I9eyp] p p [ypj] j j j 
+[6esfh] 
+[8tosh] f G [tsh] f G 
+[0ah] f h [rf] [uah] f h f 
+[9pdh] f [eG] [ydh] f G 
+[6sfh] j h [0G] [esf] f f 
+[8oh] f [wG] [tsh] f G 
+[0ah] f h [rf] [uah] h h 
+[9pdh] G [eypdG] h G 
+[60epsf] 
+[8of] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] u 
+[I9eyp] p p 9 [Ieyp] o o 
+[6etu] t 6 [etu] e w 
+[8od] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] o 
+[I9yp] p 9 [Ieyp] o o 
+[6etu] e [tu] t e 
+8 f [wtof] [8of] h [8j] [wth] 
+[0of] f [ruf] 0 [ah] [0j] [ruah] 
+9 [eypf] [9f] h [9j] [yh] 
+[6psf] [pf] [ef] e [sfj] e [ush] 
+8 [wtof] [8of] h [8j] [wth] 
+[0oaf] f [ruaf] 0 [ah] [0j] [ruah] 
+[9epdG] p 9 [eypdG] j G G 
+[eupsf] x v z 
+[todhx] x x z z 
+[uafhk] [afhk] k z k 
+[Gypdj] j j j h h 
+[eupsf] x x C z 
+[toshx] x [hx] z z 
+[uafhk] f [ahk] k k k 
+[Gypdj] j j [pzb] b b b 
+[euphlxv] 
+[8oh] f [8G] [wtsh] f G 
+[0ah] f h [0f] [ruah] f h h 
+[9pdh] f [9G] [eydh] f G 
+[esfh] j h [eG] [upsf] f f 
+[8oh] f [wG] [tsh] f G 
+[0ah] f h [0f] [ruah] h h 
+[9pdh] G 9 [eypdG] h G 
+[eupsf] 
+[8of] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] u 
+[I9eyp] p p 9 [Ieyp] o o 
+[60etu] t 6 [etu] e 
+[8od] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] u o 
+[I9eyp] p 9 [Ieyp] o o 
+[60etu] t 6 [etu] e w 
+8 f [wtof] [8of] h [8j] [wth] 
+[0of] f [ruf] 0 [afj] 0 [ruah] 
+9 [eypf] [9f] h [9j] [yh] 
+[6psf] [pf] [ef] e [sfj] e [ush] 
+8 [wtof] [8of] h [8j] [wth] 
+[0oaf] f [ruaf] 0 [ah] [0j] [ruah] 
+[9epdG] p 9 [eypdG] j G G 
+[eupsf] 
+7 [QGz] [Gz] [Grz] k z x 
+[0hk] r u k k 
+[8fhk] j w j t j h j 
+[6sfk] [0j] [eh] f d 
+7 [QGz] [Gz] [Gyz] k z x 
+[0fhk] r u k k 
+[9sfk] j e j y j h j 
+[9sfk] [ej] [yh] f d 
+[9sfk] [ej] [yh] f d 
+[9sfk] j h j 
+[8w] [of] f h j h 
+[0rof] f f [aj] h 
+[9e] f f h j h 
+[60psf] f f [sj] h 
+[8w] [of] f h j h 
+[0rof] f f h j h 
+[9epdG] [pdG] j G G 
+[60psf] 
+[8of] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] u 
+[I9eyp] p p 9 [Ieyp] o o 
+[60etu] t 6 [etu] e 
+[8od] f f [8f] [wtof] d a 
+[0ruo] u 0 [ruo] u o 
+[I9eyp] p 9 [Ieyp] o o 
+[60etu] t 6 [etu] e w 
+8 f [wtof] [8of] h [8j] [wth] 
+[0of] f [ruf] 0 [afj] 0 [ruah] 
+9 [eypf] [9f] h [9j] [yh] 
+[6psf] [pf] [ef] e [sfj] e [ush] 
+8 [wtof] [8of] h [8j] [wth] 
+[0oaf] f [ruaf] 0 [ah] [0j] [ruah] 
+[9epdG] p 9 [eypdG] j G G 
+[eupsf] 
+[7radG] I [adG] I 
+[0uafh] o [afh] o 
+[8tsfh] o [sfh] o 
+[6esfj] p [sfj] p 
+[7radG] I [adG] I 
+[0uafh] o [afh] o 
+[9ysfh] o [sfh] o 
+[sfh] o [sfh] o 
+[9sfh] o [sfh] o 
+[sfh] o [fh] 
+[8uos] 
+[0ruoa] 
+[I9eyp] 
+[6etup] 
+[8wuos] 
+[0ruoa] 
+[I9eyp] 
+[6etup] 
+[3r] [0uo] 
