@@ -1,4 +1,3 @@
-Transpose -1
 h f
 s o O f
 d [30wto] p a
