@@ -16,7 +16,6 @@ def readSong(file):
 	return song.replace('\n', " ")
 
 def playNote(c):
-	global noteDelay
 	if c.isupper():
 		pg.hotkey("shift", c)
 	else:
