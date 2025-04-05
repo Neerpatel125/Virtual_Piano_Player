@@ -72,7 +72,7 @@ def on_press(key):
 
 if len(sys.argv) < 2:
 	print("Please enter valid parameters:")
-	print("\t1. File Name for the sheet music. Must be in the songs folder, exclude '.txt'.")
+	print("\t1. File Name for the sheet music.")
 	print("\t2. [Optional if specified in file] Tempo of the music (BPM)")
 	print("\n")
 	print("Tips:")
@@ -81,13 +81,14 @@ if len(sys.argv) < 2:
 	print("\n")
 	exit()
 
-filePath = f"songs/{sys.argv[1]}.txt" 
+filePath = sys.argv[1]
 song = readSong(filePath)
 bpm = None 			# Beats per minute, tempo of the song.
 isMidi = False 		# MIDI converter handles dash delay differently.
 if len(sys.argv) == 2:
 	# Get tempo info from the file name. 
-	split = sys.argv[1].split('_')
+	fileName = sys.argv[1].split('.txt')[0]	# Remove file extension
+	split = fileName.split('_')
 	for token in split:
 		if token.lower() == 'midi':
 			isMidi == True
