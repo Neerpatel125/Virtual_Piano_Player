@@ -1,0 +1,81 @@
+[8wfx] [ak]
+[0woh]
+[Q9pj] [oh] [IG]
+[ruf] t y t r t r
+[1uos] 1 1 1 1
+[3ruop] 3 3 3 3
+[2wyI] 2 2 2 2
+[1wtu] 1 1 1 1
+[5wr] 5 r [5e] 5 [5r] e
+[Q2e] 2 2 2 2
+[5wr] r 5 r r [5e] [5r] 5 e
+[2Q] 2 [2e] [2r] [2e] w
+[1wr] 1 0 0 [10w] [1e] [1w] r
+[3wr] 3 r r [30r] [3e] [3e] w
+[2e] 2 e e [2e] [2r] [2w] w
+[20et] 2 2 2 2
+[5wr] r 5 r r [5e] [5r] 5 e
+[2et] 2 2 2 2
+[5wr] r 5 r r [5y] [5r] [5r] e
+[2Q] 2 [2e] [2r] [2e] w
+[1wr] 1 0 0 [10w] [1e] [1w] r
+[3w] 3 r r [30r] [3e] [3e] e
+[2e] 2 e e [2e] [2r] [2w] w
+[2Q] 2 e e r [2r] [20] [20] w
+[180wt] [18] w w [18e] r
+[30w] [30] u y 0 r e
+[Q29e] [29] e w e 9 w e w
+[180et] e [18w] e w e r [18e] w
+[180wt] [18] w w [18w] e r
+[30w] [30] u u [0r] e
+[29Q] [29w] e w e [29] w e w
+[180et] [18w] e w e r [18e] w
+[Q18wt] [18] u u u u u [18u] u I o
+[30wr] [30] u u u u u [30u] u I p
+[29eyI] [29] [Qe] I [29I] u [eQI] I
+[18wtI] u [18] [18]
+[180t] [18] w w [18e] r
+[30w] [30] u u y [30] r e
+[Q29y] [29] [29] w e w
+[18wet] [18] t e w e 0 0
+[5wr]
+r 5 r r [5e] [5r] 5 e
+[2et] 2 2 2 2
+[5wr] r 5 r r [5y] [5r] [5r] e
+[2Q] 2 [2e] [2r] [2e] w
+[1wr] 1 0 0 [10w] [1e] [1w] r
+[3w] 3 r r [30r] [3e] [3e] e
+[2e] 2 e e [2e] [2r] [2w] w
+[2Q] 2 e e r [2r] [20] [20] w
+[180wt] [18] w w [18e] r
+[30w] [30] u y 0 r e
+[Q29e] [29] e w e 9 w e w
+[180et] e [18w] e w e r [18e] w
+[180wt] [18] w w [18w] e r
+[30w] [30] u u [0r] e
+[29Q] [29w] e w e [29] w e w
+[180et] [18w] e w e r [18e] w
+[Q18wt] [18] u u u u u [18u] u I o
+[30wr] [30] u u u u u [30u] u I p
+[29eyI] [29] [Qe] I [29I] u [eQI] I
+[18wtI] u [18] [18]
+[180t] [18] w w [18e] r
+[30w] [30] u u y [30] r e
+[Q29y] [29] [29] w e w
+[18wet] [18] t e w e 0 0
+[180] [18] [tuos] [18] [yod]
+[30ruoa] [30] [30e] w e w 0 0
+[290] [29] [ey] [29]
+[18ruoa] [18] e w [18e] w 0 0
+[290] [29] [ey] [29]
+[18] [18] [uosf] [18] [dhz]
+[30adhk] [30] [30]
+[5wadj] [5w] [5w] [adk]
+[18uosf] [18] [18]
+[18osfh] [18] [18] [dhz]
+[30adhk] [30] [30]
+[5wpdj] [5w] [5w] [adk]
+[18uosf] [18] [18]
+1 0 8 0 8
+3 7 w 0 w 0
+2 6 Q 9 Q 9
