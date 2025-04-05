@@ -24,7 +24,7 @@ def playNote(c):
 
 def playSong(song):
 	atOnce = False
-	multiKeys = ""
+	multiKeys = []
 	global dashDelay, spaceDelay, pause
 	for c in song:
 		# Stop when signaled to. 
@@ -40,9 +40,9 @@ def playSong(song):
 		elif c == "]":
 			atOnce = False
 			pg.hotkey(*multiKeys) 
-			multiKeys = ""
+			multiKeys = []
 		elif atOnce:
-			multiKeys += c
+			multiKeys.append(c)
 		elif c == "-" or c == "|":
 			time.sleep(dashDelay)
 		elif c == " ":
