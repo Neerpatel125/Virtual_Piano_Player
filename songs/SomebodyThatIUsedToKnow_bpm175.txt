@@ -1,0 +1,133 @@
+2 [69] 2 1 [58] 1
+2 [69] 2 1 [58] 1
+[2s] 6 [qs] 2 [1h] 5 [0h] 1
+[2j] [6J] [ql] [2j] [1h] 5 0 1
+[2g] 6 [qg] 2 [1f] 5 [0f] 1
+[2d] 6 [qd] 2 [1s] 5 0 1
+[2s] 6 [qs] 2 [1h] 5 [0h] 1
+[2j] [6J] [ql] [2j] [1h] 5 0 1
+[2d] 6 [qd] 2 1 5 [0f] 1
+[2d] 6 [qd] 2 1 5 [0f] g [hj] p
+2 6 [qp] p [1o] [5o] [0o] [5o]
+[2s] 6 [qp] [1o] 5 [0u] [5u]
+2 y [6y] q 1 0 6 1
+2 9 6 2 [1q] 0 5 1
+2 [6ey] [qp] p [1o] [5o] [0o] [5o]
+[2s] 6 [qp] o [1o] 5 i p
+2 6 [ey] 6 1 [wtu] 5 1
+2 6 [weu] 6 1 [qey] 5 [10wt]
+2 6 [qeyp] [eyp] [1to] [5to] [0to] [to]
+[2ts] 6 [qtp] [to] [1to] 5 0 1
+2 [6y] [qi] [2u] [1o] [5i] o [0u] [5y]
+[2i] [6y] [qy] [6y] 1 5 0 1
+2 [6y] [qp] [2p] [1o] [5o] [0o] [1o]
+[2s] 6 [qo] 2 [1i] 5 [0u] u
+[2y] 6 [qe] 6 1 [0w] 5 1
+2 [qe] 6 2 [10w] 5 0 1
+[2p] d j 6 q 2 1 5 0 1
+2 6 q 2 [1s] g l 5 0 [1j]
+[2dh] 6 q [2ypd] 1 5 0 1
+2 6 q 2 1 [5upf] 0 [1d]
+[2p] d j 6 q 2 1 5 0 1
+2 6 q 2 [1sgl] 5 0 [1j]
+[2pdh] 6 q [2yopd] [1opd] 5 [0yd] 1
+2 6 q 2 1 5 0 1
+[2p] [6p] [9p] [2p] [1o] [5o] [0o] [1o]
+[2s] 6 [9o] 2 [1i] 5 [8u] u
+[2y] 6 [qe] 6 1 [0w] 5 1
+2 6 [qe] 6 1 [0wt] 5 1
+2 [6ey] [qp] [2p] [1o] [5o] [0o] [5o]
+[2p] 6 q 2 [1u] 5 [0u] [1t]
+[2t] 6 [qe] 6 1 [0w] 5 1
+2 6 [9qe] 6 1 [80w] 5 1
+2 [6ey] [qp] [2p] [1o] [5o] [0o] [5o]
+[2s] 6 [qp] [2o] [1o] 5 0 t
+2 6 [qti] [ti] [1to] [5ti] [0ti] [tu]
+[2tu] 6 [qey] [6qey] [1qey] [0wt] 5 1
+2 [6ey] [qp] [2p] [1to] [5to] [0to] [1to]
+[2ts] 6 q 2 [1ti] 5 0 [1wtu]
+[2wtu] [6qey] 9 [qe] 1 [0wt] 8 8
+2 [qey] 9 2 1 [18] 0 w e
+t [29qey] [29] [ts] [18yd] [ig] [8qeig] [yd]
+[dgPJ] ^ [Eqy] [pj] [1psfj] 5 0 1
+2 6 [qoh] [pj] [1ofh] [5ofh] [0ofh] [1ofh]
+[sdgl] [4sdgl] [^sdgl] [sdgl] [1PJ] [5pj] 0 [1osfh]
+[2isg] 6 q [2ts] [1yd] [8ig] [1ig] [8yd]
+[dg^PJ] [Eqy] [pj] [1psfj] 5 [0yd] [1yd]
+[2oh] [6pj] [qpj] [2oh] [1oh] 5 [yd] [yd] [18yd]
+[Pyd] ^ [tis] ^ [1tis] 8 i u t
+w [26] 9 [tis] [tis] [1yd] [ig] [158ig] [yd]
+[PJ] 4 ^ [Eqy] [pj] [1psfj] 5 0 1
+2 6 [qoh] [2pj] [1oh] 5 [oh] [0oh] [1oh]
+[sdgl] [4sdgl] [^sdgl] [sdgl] [1PJ] [5pj] 0 [1osh]
+[2isg] 6 q [2yd] [1yd] [5ig] [8ig] [1yd]
+[^4pdj] [Eqy] [oh] [1osh] 5 0 1
+[2osh] [6pj] [qpj] [2pj] [1ig] [5oh] [0oh] [1pj]
+[oh] 4 [^isg] [1isg] 5 0 1
+[2ts] 6 [qts] 2 [1oh] 5 [8oh] 1
+[pj] [4PJ] [^sl] [pj] [1oh] 5 0 1
+[2osh] [6pj] [qpj] [2pj] [1ig] [5oh] [8oh] [1oh]
+[oh] 4 [^ig] [1ig] 5 0 1
+[2ts] 6 [qts] 2 [1oh] 5 [8oh] 1
+[pj] [4PJ] [^sl] [pj] [1oh] 5 0 1
+[2oh] [6pj] [qpj] [2pj] [1ig] [5oh] [8oh] [1pj]
+[osh] 4 [^isg] [1isg] 5 0 1
+[2j] z x b 6 q e [8t] 0 w u
+[9yjzxb] q e y [8lm] 0 w [tjb]
+[9hv] q e [ydjz] 8 0 w t
+9 q e y [8fx] 0 w [tz]
+[9j] z b q e y 8 0 w t
+9 q e y [8lm] 0 w [tjb]
+[9hv] q e [ydz] 8 0 w [tdz]
+9 q e y 8 0 w t
+u 9 e [yj] j [8h] [wh] [uh]
+h [9l] [el] [yJ] j [8h] w [ud]
+f [9d] e y i [8u] w t
+u [9i] [ei] [yo] [8o] w t
+[9oh] [epj] [ypj] [pj] [8oh] [woh] [uoh]
+[oh] [9PJ] [ePJ] [ypj] [eoh] [8oh] [wPJ] u
+[pdj] 9 e u [op] [8uo] w t
+[uo] [9yi] e y [yi] [8tu] w t
+w 9 e y [es] [8ig] [wig] [tig]
+[wig] [9ig] e [yoh] e [8oh] w t
+w 9 e [yig] [eig] [8ig] [wig] [tig]
+[wig] [9ig] e [yoh] e [8oh] w t
+w 9 e y [id] [8isg] [wisg] [tisg]
+[isg] [9isg] [eosh] [yosh] [eosh] 8 w [tisg]
+[isg] [9qyisg] [isg] [isg] [249isg] [18isg] [isg] [148isg]
+[148isg] [29isg] [29osh] [29osh] [29ig] [18sgl] [18] [18dgPJ]
+[dgPJ] [2469pdgj] [2469] [tis] [tis] [18yid] [ig] [8qeig]
+[yd] [dgPJ] 4 ^ [Eqy] [pj] [1psfj] 5 0
+1 [2] [29osfh] [pj] [1osfh] [osfh] [50osfh]
+[osfh] [sdgl] 4 ^ [sdgl] [Eqysdgl] [PJ] [1sPJ] [psgj] [50]
+[osh] [2isg] [] [tyis] [18yid] [ig] [tipg]
+[yd] [dgPJ] 4 ^ [Eqy] [pj] [1psfj] [50yd]
+[yd] [2oh] [pj] [26qpj] [oh] [1oh] [yid] [158yid]
+[yid] [Pyid] ^ [tis] ^ [1tios] [18i]
+u t w [2] [tyips] [tis] [8yid] [ig] [8qetig]
+[yd] [dgPJ] 4 ^ [^49] [pdgj] [18pdgj] [158]
+[246] q [osfh] [psfj] [1osfh] [158] [osfh] [osfh]
+[osfh] [sdgl] [sdgl] [^4sdgl] [sdgl] [1PJ] [pj] [50]
+[osfh] [26isg] q [yid] [yid] [1yid] [ig] [18ig]
+[yd] [pdgj] 4 ^ [Ey] [osh] [8osfh] 0 [80wt]
+o [246osfh] [psgj] [2469psgj] [isg] [15isg] [osh] [158osh]
+[osh] [odfh] [4^] [isdg] ^ [P15idg] 8 [ts]
+[PJ] [246pdgj] 9 [2469] [osfh] 1 [158] [158]
+[EP] [EP] [4^] [^tis] [tios] [1tios] [tuo] [58]
+1 [2osfh] [pdgj] [2469pdgj] [2469pdgj] [1isg] [osh] [158osh]
+[1osh] [osh] 4 [^isg] 4 [1isg] 5 [0tuos]
+[1PJ] [2pdgj] [2469] [2469] [osfh] 1 [58] [158]
+[EP] [iEP] [4^] [tios] [tios] [1ios] [58] i
+u t w [246] [9psj] [2469psj] [isg] [1isg] [osh] [8osh]
+[158osh] [osfh] [4^] [isdg] ^ [15g] f s o [158g]
+f s o [2469] [ipd] [2469] [uos] [18] [18] [18]
+[dPJ] [dgPJ] [4^] [sgl] [sghl] [15gh] [osf] [158]
+[os] [246] [2469] [2469] [PJ] [1PJ] [18] [18dPJ]
+[18dPJ] [dPJ] [4^] [psj] [osh] [15] 8 [osf]
+[58] [26] 9 [ipd] 2 1 [uos] [18]
+[18PJ] [4dgPJ] ^ [sgl] [sgl] 1 [158] [158yd]
+[PJ] [26pdj] 9 [pd] [osh] [15] 8 [os]
+[isg] [4] ^ [9qE] [wt] [15] 8 0 w e t u
+o p s f h j [] [2dgjz] 6 9 q
+e y e y i p d g
+j z d z
