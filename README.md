@@ -10,9 +10,9 @@ The `PlaySong.py` file takes the following arguments
   2. `bpm`: beats per minute to play the song at; optional if the file specifies the bpm, else required. 
 
 ## Examples
-1. `python3 PlaySong.py songs/Mariage_Damour_BPM163.txt`
+1. `python3 PlaySong.py songs/je_te_laisserai_des_mots_Trans2_bpm133.txt`
 
-2. `python3 PlaySong.py songs/Mariage_Damour_BPM163.txt 326`
+2. `python3 PlaySong.py songs/je_te_laisserai_des_mots_Trans2_bpm133.txt 266`
 
 ## Tips
    - Use `[` and `]` to decrease and increase the tempo, respectively.
