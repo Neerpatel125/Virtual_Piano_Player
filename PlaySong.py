@@ -10,7 +10,8 @@ pause = False
 dashDelay = None	# Delay between '-'
 pipeDelay = None	# Delay between '|'
 spaceDelay = None	# Delay between spaces 
-noSpaceDelay = None
+noSpaceDelay = None	# Delay between no spaces
+bpm = None 			# Beats per minute, tempo of the song.
 
 def readSong(file):
 	def strip_around_separators(s):
@@ -21,6 +22,14 @@ def readSong(file):
 			line = strip_around_separators(line)
 			song += line.strip() + " "
 	return song
+
+def setDelays():
+	global dashDelay, pipeDelay, spaceDelay, noSpaceDelay, bpm
+	seconds_per_beat = 60.0 / bpm
+	noSpaceDelay = seconds_per_beat / 32
+	spaceDelay = seconds_per_beat / 4		
+	dashDelay = seconds_per_beat / 2
+	pipeDelay = seconds_per_beat / 2
 
 def playNote(c):
 	if c.isupper():
@@ -63,17 +72,17 @@ def playSong(song):
 
 def on_press(key):
     # Stops the playback when backspace is pressed.
-	global stop_playing, dashDelay, spaceDelay, noteDelay, pause
+	global stop_playing, dashDelay, spaceDelay, noteDelay, pause, bpm
 	try:
 		if key == keyboard.Key.ctrl_l or key == keyboard.Key.ctrl_r or key == keyboard.Key.backspace:
 			stop_playing = True
 			return False  # Stop the listener after key is pressed
 		if key == keyboard.KeyCode.from_char('['): 
-			spaceDelay *= 1.1
-			dashDelay *= 1.1
+			bpm -= bpm * 0.25 
+			setDelays()
 		if key == keyboard.KeyCode.from_char(']'): 
-			spaceDelay /= 1.1
-			dashDelay /= 1.1
+			bpm += bpm * 0.25
+			setDelays()
 		if key == keyboard.Key.f12: 
 			pause = not pause 
 	except Exception as e:
@@ -92,7 +101,6 @@ if len(sys.argv) < 2:
 
 filePath = sys.argv[1]
 song = readSong(filePath)
-bpm = None 			# Beats per minute, tempo of the song.
 isMidi = False 		# MIDI converter handles dash delay differently.
 if len(sys.argv) == 2:
 	# Get tempo info from the file name. 
@@ -112,11 +120,7 @@ if len(sys.argv) > 2:
 
 # Calculate time delays based on BPM if not found in file.
 if not isMidi or spaceDelay is None or dashDelay is None:
-	seconds_per_beat = 60.0 / bpm
-	noSpaceDelay = seconds_per_beat / 16
-	spaceDelay = seconds_per_beat / 4		
-	dashDelay = seconds_per_beat / 2
-	pipeDelay = seconds_per_beat / 2
+	setDelays()
 
 print("Starting...")
 thread = Thread(target=playSong, args=(song,))
