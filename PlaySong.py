@@ -6,7 +6,8 @@ import sys
 
 stop_playing = False
 pause = False
-dashDelay = None	# Delay between '-' or '|'
+dashDelay = None	# Delay between '-'
+pipeDelay = None	# Delay between '|'
 spaceDelay = None	# Delay between spaces 
 
 def readSong(file):
@@ -43,10 +44,12 @@ def playSong(song):
 			multiKeys = []
 		elif atOnce:
 			multiKeys.append(c)
-		elif c == "-" or c == "|":
+		elif c == "-":
 			time.sleep(dashDelay)
 		elif c == " ":
 			time.sleep(spaceDelay)
+		elif c == "|":
+			time.sleep(pipeDelay)
 		else:
 			playNote(c)
 	# Exit when done playing. 
@@ -106,6 +109,7 @@ if not isMidi or spaceDelay is None or dashDelay is None:
 	seconds_per_beat = 60.0 / bpm
 	spaceDelay = seconds_per_beat / 4			
 	dashDelay = seconds_per_beat / 4
+	pipeDelay = seconds_per_beat / 4
 
 print("Starting...")
 thread = Thread(target=playSong, args=(song,))
