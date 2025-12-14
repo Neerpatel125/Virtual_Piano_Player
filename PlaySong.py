@@ -59,11 +59,11 @@ def on_press(key):
 			stop_playing = True
 			return False  # Stop the listener after key is pressed
 		if key == keyboard.KeyCode.from_char('['): 
-			spaceDelay *= 2 
-			dashDelay *= 2
+			spaceDelay *= 1.1
+			dashDelay *= 1.1
 		if key == keyboard.KeyCode.from_char(']'): 
-			spaceDelay /= 2
-			dashDelay /= 2
+			spaceDelay /= 1.1
+			dashDelay /= 1.1
 		if key == keyboard.Key.f12: 
 			pause = not pause 
 	except Exception as e:
@@ -103,13 +103,13 @@ if len(sys.argv) > 2:
 
 # Calculate time delays based on BPM if not found in file.
 if not isMidi or spaceDelay is None or dashDelay is None:
-	beats_per_second = bpm / 60
-	spaceDelay = .25 / beats_per_second			
-	dashDelay = 0.7 * spaceDelay
+	seconds_per_beat = 60.0 / bpm
+	spaceDelay = seconds_per_beat / 4			
+	dashDelay = seconds_per_beat / 4
 
 print("Starting...")
 thread = Thread(target=playSong, args=(song,))
-time.sleep(3)
+time.sleep(2)
 thread.start()
 
 # Start the key listener
