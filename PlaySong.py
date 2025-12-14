@@ -73,13 +73,12 @@ def on_press(key):
 
 if len(sys.argv) < 2:
 	print("Please enter valid parameters:")
-	print("\t1. File Name for the sheet music.")
-	print("\t2. [Optional if specified in file] Tempo of the music (BPM)")
-	print("\n")
+	print("\t1. File path for the sheet music.")
+	print("\t2. Tempo of the music (BPM) (optional if specified in file).")
 	print("Tips:")
 	print("\t - Use '[' and ']' to adjust the tempo.")
 	print("\t - Press f12 to pause/play.")
-	print("\n")
+	print("\t - Press ctrl or backspace to exit.")
 	exit()
 
 filePath = sys.argv[1]
