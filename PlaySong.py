@@ -14,6 +14,9 @@ def readSong(file):
 	song = ""
 	with open(file, "r") as f:
 		for line in f.readlines():
+			if "-" in line:
+				line = line.replace(" -", "-")
+				line = line.replace("- ", "-")
 			song += line.strip() + " "
 	return song
 
