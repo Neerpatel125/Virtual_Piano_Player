@@ -3,6 +3,7 @@ import time
 from threading import Thread
 from pynput import keyboard
 import sys
+import re
 
 stop_playing = False
 pause = False
@@ -11,12 +12,12 @@ pipeDelay = None	# Delay between '|'
 spaceDelay = None	# Delay between spaces 
 
 def readSong(file):
+	def strip_around_separators(s):
+		return re.sub(r'\s+([\-|]+)\s+', r'\1', s)
 	song = ""
 	with open(file, "r") as f:
 		for line in f.readlines():
-			if " -" in line:
-				line = line.replace(" -", "-")
-				line = line.replace("- ", "-")
+			line = strip_around_separators(line)
 			song += line.strip() + " "
 	return song
 
