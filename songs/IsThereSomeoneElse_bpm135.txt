@@ -1,0 +1,109 @@
+6 e| 0 [tf]||
+h [3g] 7 f w [4d] 8 f e
+2 9| 6 q| d|
+5 [wf]| 9 [rf]||
+d [6d] e| 0 t f f h
+[3g] 7 f w [4d] 8 f e
+2 9| 6 q f s|
+5 w| 9 r| |
+6 [ed] d [0d] [td]| s|
+3 [7d]| [wd] [4f] 8| e
+2 [9d]| [6d] [qd]| s|
+[5g] w f 9 [rd]| f|
+6 [ed]| [0d] [td]| s|
+3 [7d]| [wd] [4f] 8| e
+2 9| [6h] q f| d
+[5d] w| 9 r| |
+[6p] [0a] [es] h 6 0 e|
+3 [7p] 0 o 4 [8y] q t
+2 6 [9t] e [2t] [6y] [9u] y
+5 9 [wt] e [5t] [9y] [wu]|
+6 [0y] e| 6 0 e|
+3 [7p] 0 o 4 [8y] q t
+2 6 [9t] e [2t] [6y] [9u] y
+5 9 [wt] e [5t] [9y] [wu] u
+6 0 [eo] y 6 0 [eu] t
+3 7 [0y] e 4 [8e] [qw] e
+2 [6y] 9| 2 6 9 e
+5 [9u] w| [5i]uy9 w|
+6 [0u] [eo] y 6 0 [eu] t
+3 7 [0y] e 4 [8e] [qw] e
+2 [6y] 9| 2 6 [9t] i
+[5u] [9y] w| 5 9 [wu]|
+6 8 0 e [tu] e 0 [8o]
+[3i] 5 [7u] [0y] 4 [6t] 8 [qt]
+2 [4e] 6 9 q [9e] [6u] [4y]
+5 7 [9t] [wr] r w [9t] [7e]
+6 8 0 e [tu] e 0 [8o]
+[3i] 5 [7u] [0y] 4 [6t] 8 [qt]
+2 [4y] 6 9 q [9t] [6y] [4u]
+5 [7y] 9 [wy] r [wt] [9y] [7u]
+6 0 o [80ey]| y [80et] y
+3 7 e [wt] 4 [8t] y [eu]
+2 6 o [69qy]| y [69qt] y
+5 9 u [9wri] u y [9wr] u
+6 0| [80e] u| [80e] o
+[3i] 7 u [wy] 4 [8t]| [et]
+2 [6y]| [69q]||[69qu]|
+5 9| [9wr]||[9wry] y
+[6e] 0 e| 6 0 e|
+3 [7p] 0 o 4 [8y] q t
+2 6 [9t] e [2t] [6y] [9u] y
+5 9 [wt] e [5t] [9y] [wu]|
+6 [0y] e| 6 0 e|
+3 [7p] 0 o 4 [8y] q t
+2 6 [9t] e [2t] [6y] [9u] y
+5 9 [wt] e [5t] [9y] [wu] u
+6 0 [eo] y 6 0 [eu] t
+3 7 [0y] e 4 [8e] [qw] e
+2 [6y] 9| 2 6 9 e
+5 [9u] w| [5i]uy9 w|
+6 [0u] [eo] y 6 0 [eu] t
+3 7 [0y] e 4 [8e] [qw] e
+2 [6y] 9| 2 6 [9t] i
+[5u] [9y] w| 5 9 [wu]|
+6 8 0 e [tu] e 0 [8o]
+[3i] 5 [7u] [0y] 4 [6t] 8 [qt]
+2 [4e] 6 9 q [9e] [6u] [4y]
+5 7 [9t] [wr] r w [9t] [7e]
+6 8 0 e [tu] e 0 [8o]
+[3i] 5 [7u] [0y] 4 [6t] 8 [qt]
+2 [4y] 6 9 q [9t] [6y] [4u]
+5 [7y] 9 [wy] r [wt] [9y] [7u]
+6 0 o [80ey]| y [80et] y
+3 7 e [wt] 4 [8t] y [eu]
+2 6 o [69qy]| y [69qt] y
+5 9 u [9wri] u y [9wr] u
+6 0| [80e] u| [80e] o
+[3i] 7 u [wy] 4 [8t]| [et]
+2 [6y]| [69q]||[69qu]|
+5 9| [9wr]||[9wry] y
+[6e] e| 0 [tf]||h
+[3g] 7 f w [4d] 8 f e
+2 9| 6 q| d|
+5 [wf]| 9 [rf]||d
+[6d] e| 0 t f f h
+[3g] 7 f w [4d] 8 f e
+2 9| 6 q f s|
+5 w| 9 r| |
+6 [ed] d [0d] [td]| s|
+3 [7d]| [wd] [4f] 8| e
+2 [9d]| [6d] [qd]| s|
+[5g] w f 9 [rd]| f|
+6 [ed]| [0d] [td]| s|
+3 [7d]| [wd] [4f] 8| e
+2 9| [6h] q f| d
+[5d] w| 9 r| |
+[6p] [8o] [0p] u| |u
+3 [5y] 7| 4 [6t] [8y] u
+9 q [ei] u| t| e
+5 [7w] 9| |
+[6tup] 8 0| |
+[3ruo] 5 7| [4tip] 6 8|
+[9yip] q e| |
+[5ryo] 7 9| |
+[etu]|||
+[0wr]||[qet]| |[9qe]|||
+[wry]|||
+[etu]|||
+[0wr]||[qet]| |[eyi]||| [ryo]

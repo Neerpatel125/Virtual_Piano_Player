@@ -10,6 +10,7 @@ pause = False
 dashDelay = None	# Delay between '-'
 pipeDelay = None	# Delay between '|'
 spaceDelay = None	# Delay between spaces 
+noSpaceDelay = None
 
 def readSong(file):
 	def strip_around_separators(s):
@@ -56,6 +57,7 @@ def playSong(song):
 			time.sleep(pipeDelay)
 		else:
 			playNote(c)
+			time.sleep(noSpaceDelay)
 	# Exit when done playing. 
 	pg.press('ctrl')
 
@@ -111,7 +113,8 @@ if len(sys.argv) > 2:
 # Calculate time delays based on BPM if not found in file.
 if not isMidi or spaceDelay is None or dashDelay is None:
 	seconds_per_beat = 60.0 / bpm
-	spaceDelay = seconds_per_beat / 4			
+	noSpaceDelay = seconds_per_beat / 8
+	spaceDelay = seconds_per_beat / 4		
 	dashDelay = seconds_per_beat / 2
 	pipeDelay = seconds_per_beat / 2
 
