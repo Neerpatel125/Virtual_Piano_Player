@@ -13,3 +13,8 @@ The `PlaySong.py` file takes the following arguments
 1. `python3 PlaySong.py songs/Mariage_Damour_BPM163.txt`
 
 2. `python3 PlaySong.py songs/Mariage_Damour_BPM163.txt 326`
+
+## Tips
+   - Use `[` and `]` to decrease and increase the tempo, respectively.
+   - Press `f12` to pause/play.
+   - Press `ctrl` or `backspace` to exit.
