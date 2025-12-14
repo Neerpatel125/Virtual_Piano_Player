@@ -2,6 +2,8 @@
 
 A virtual piano can be found at https://virtualpiano.net. 
 
+This tool presses the keys according to a sheet music and tempo.
+
 ## How to use
 The `PlaySong.py` file takes the following arguments
   1. `file`: path to the song text file (several listed in the `songs` directory).
