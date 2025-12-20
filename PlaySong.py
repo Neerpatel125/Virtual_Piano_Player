@@ -26,7 +26,7 @@ def readSong(file):
 def setDelays():
 	global dashDelay, pipeDelay, spaceDelay, noSpaceDelay, bpm
 	seconds_per_beat = 60.0 / bpm
-	noSpaceDelay = seconds_per_beat / 32
+	noSpaceDelay = seconds_per_beat / 8
 	spaceDelay = seconds_per_beat / 4		
 	dashDelay = seconds_per_beat / 2
 	pipeDelay = seconds_per_beat / 2
@@ -66,7 +66,7 @@ def playSong(song):
 			time.sleep(pipeDelay)
 		else:
 			playNote(c)
-			time.sleep(noSpaceDelay)
+			# time.sleep(noSpaceDelay)
 	# Exit when done playing. 
 	pg.press('ctrl')
 
