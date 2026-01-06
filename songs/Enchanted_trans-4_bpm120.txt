@@ -1,0 +1,118 @@
+8 t t t t 
+5 w w w w 
+4 q q q q 
+8 8 8 8 8 5 
+[8s] d [tf] s t s [td] f t 
+[5a] s [wd] a w a [ws] d w 
+[4s] d [qf] s q s [qd] f q 
+8 8 8 8 8 5 
+[8s] d [tf] s t s [td] f t 
+[5a] s [wd] a w a [ws] d w 
+[4s] d [qf] s q s [qd] f q 
+8 f [tf] f t f [td] s t 
+[4ip] q f q f [qd] s q [oh] 
+6 [uf] e e e e d 
+5 [wyo] [wyo] [wyo] [wo] [9y] 
+[5w] 5 9 [wyo] [wyo] [wyo] [wo] 
+[8s] [8d] [tf] s 8 s 8 [8d] [tf] 8 
+[5a] [5s] [wd] a 5 a 5 [5s] [wd] 5 
+[4s] [4d] [qf] s 4 s 4 [4d] [qf] g [4f] 
+8 t [tof] 8 [tof] 8 [tof] w f 5 o 
+[8s] [8d] [tf] s 8 s 8 [8d] [tf] 8 
+[5a] [5s] [wd] a 5 a 5 [5s] d w [5s] 
+4 [4f] d [qf] s 4 s 4 [qs] [ypg] [tof] 
+8 [8t] [tof] [8of] 8 [8d] [ts] [8p] 
+4 4 q f 4 f 4 [4d] [qs] [4oh] 
+6 [6uf] e 6 6 6 e [6d] 
+5 5 [wyo] [5yo] 5 [5yo] w o [5y] 
+[5w] [5f] [5f] f 5 f 5 [5d] [5s] 5 
+[4ip] 4 q f 4 f 4 [4d] [qs] [4oh] 
+6 [6uf] e 6 6 6 e [6d] 
+5 5 [wyo] [5yo] 5 [5yo] w o [5y] 
+[5w] [5w] y [5yo] 5 [59] [5w] r [5y] o [5a] d h k 
+[4gjl] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4sgj] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tusl] [8sl] [5ak] [wsl] y [oak] [wpj] 
+4 q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4psgj] [qfjx] t [tipfjx] [qfjx] 4 [fjx] 4 [qdjz] [tipsjl] [qhlxv] 
+8 [8fhlx] w [tu] [8hz] 5 [wfl] y [oadk] [wfl] 
+8 8 5 8 8 8 8 
+[58] 6 8 8 8 8 8 o 
+[8s] [8d] [8wf] s 8 s 8 [8d] [8f] 8 
+[5a] [5s] [5d] a 5 a 5 [5s] [5d] 5 s 
+4 [4f] d [4qf] f 4 f [4d] [4s] [qg] [4f] 
+8 [of] [8of] [8of] 8 [of] 8 [8od] [5os] [5h] 
+[8hl] [8jz] [8wlx] [hl] 8 [hl] 8 [8jz] [8lx] 8 
+[5hk] [5jl] [5kz] [hk] 5 [hk] 5 [5jl] [5kz] 5 [jl] 
+4 [4lx] z [4qx] x 4 x [4z] [4l] [qjzc] [4hlx] 
+8 8 5 [8l] z [8x] [8v] [m] [8] [8m] v [5x] z [5l] h 
+[4sgj] 4 [4q] f 4 f 4 [4d] [qs] [4oh] 
+6 [6uf] [6e] 6 6 6 e [6d] 
+5 5 [5wyo] [5yo] 5 [5yo] [wo] [5y] 
+[5w] [5f] [5wf] f 5 f 5 [5d] [ws] 5 
+[4ip] 4 [4q] f 4 f 4 [4d] [qs] [4oh] 
+6 [6uf] [6e] 6 6 6 e 6 
+[5oh] 5 [5wdh] [5dh] 5 [5dh] w [dh] 5 
+[5dh] [wdhk] 5 [wdhk] 5 [wdhk] 5 [wdhk] 5 [wdhk] 9 [5n] 
+[4bm] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4sgj] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tusl] [8sl] [5ak] [wsl] y [oak] [wpj] 
+4 q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4psgj] q t [tip] [qgjl] 4 4 q [tipgz] [qfl] 
+8 l [8h] [wf] [tul] h [8f] l [5k] h [wd] [yk] [oah] d [wa] o 
+[4ips] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4sgj] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tusl] [8sl] [5ak] [wsl] y [oak] [wpj] 
+4 q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4psgj] [qfjx] t [tipfjx] [qfjx] 4 [fjx] 4 [4djz] [tipsjl] [qhlxv] 
+8 [8fhlx] w [tu] [8hz] 5 [wfl] y [oadk] [wfl] 
+8 [8s] [8wsf] [8sf] 8 [8sf] [6e] [sf] [5w] 
+[3o] [3o] [0rah] [3ah] 3 [3ah] 5 [ah] w 
+[4i] [4i] [qtsgj] [4sgj] 4 [4sgh] q [sgh] 4 
+[8o] [8o] [8wsf] 8 [sf] 5 6 [8sf] 6 [8l] [6j] [5h] j 
+[8dz] f [8h] l [8wfx] s f [8h] [sl] [8f] [8h] l [6edz] f [5wh] l 
+[3ak] o [3a] d [0ruf] o a [3d] [ig] [3o] [3a] d [9oh] [3a] [5d] h 
+[4pj] s [4g] j [qtak] s g [4j] [sl] [4g] [4j] l [qfx] 4 h 
+[5dhz] [5h] [wyfx] 5 [5fx] [5dz] [59sl] [5pj] 
+4 [sl] [4sl] [sl] [4ak] [sl] [4dz] [sl] 
+6 [sl] [6sl] [sl] [5ak] [oh] [5uf] [ig] 
+4 [sjl] [4sjl] [sjl] [4ahk] [sjl] [4dkz] [sjl] 
+6 [oh] [6sl] [oh] [5fx] [gc] [5fx] [pj] 
+4 [4sjl] [4sjl] [4sjl] [4ahk] [4sjl] [4dkz] [4sjl] 
+6 [6oh] [6sl] [6sl] [5sl] [5oh] [5uf] [5ig] 
+4 u e u e u e u e y e t o 
+4 [8u] q [8y] w t r t 
+[8hv] [thx] t [hx] [tz] l t z 
+[5hx] [whx] w [hz] w [hl] w 
+[4hv] [qhx] q [hx] [qz] l q l 
+[8h] h [8hx] 8 [5hz] 5 5 5 5 5 
+[8hv] 8 [8wfhx] 8 [fhx] 8 [8dz] [6esl] [5wdz] 
+[3fhx] 3 [0rfhx] 3 [dhz] 3 3 [9shl] 3 5 
+[4hv] 4 [qtfhx] 4 [fhx] 4 [4dz] [qsl] [4sl] 
+[5sl] [5sl] [5fhx] 5 [wdhz] 9 5 9 5 
+[4tip] q t [tipfjlx] q 4 [sgjl] 4 4 [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4sgj] q t [tipfjlx] q 4 [sgjl] 4 4 [tipfjlx] q 
+[8sfhl] 8 w [tusl] [8sl] [5ak] [wsl] y [oak] [wpj] 
+4 q t [tipfjlx] q 4 [sgjl] 4 4 [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4psgj] q t [tip] [qgjl] 4 4 4 [tipgz] [qfl] 
+8 l [8h] [wf] [tul] h [8f] l [5k] h [wd] [yk] [oah] d [wa] o 
+[4ips] q t [tipfjlx] q 4 [sgjl] 4 4 [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4sgj] q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tusl] [8sl] [5ak] [wsl] y [oak] [wpj] 
+4 q t [tipfjlx] q 8 [4qsgjl] q [tipfjlx] q 
+[8sfhl] 8 w [tuoh] 8 [5dz] [wfx] y [oadz] [wsl] 
+[4psgj] [qfjx] t [tipfjx] [qfjx] 4 [fjx] 4 [qdjz] [tipsjl] [qhlxv] 
+8 [fhlx] 8 [5hz] [0fl] [9dk] [8fl] 
+v t u [ox] o x [oz] l o z 
+[ux] u o [ax] a z a l a 
+[iv] i p [sx] s x [sz] l s z 
+[sh] h x z 

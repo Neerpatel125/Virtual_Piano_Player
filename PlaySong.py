@@ -26,7 +26,7 @@ def readSong(file):
 def setDelays():
 	global dashDelay, pipeDelay, spaceDelay, noSpaceDelay, bpm
 	seconds_per_beat = 60.0 / bpm
-	noSpaceDelay = seconds_per_beat / 8
+	noSpaceDelay = seconds_per_beat / 16
 	spaceDelay = seconds_per_beat / 4		
 	dashDelay = seconds_per_beat / 2
 	pipeDelay = seconds_per_beat / 2
